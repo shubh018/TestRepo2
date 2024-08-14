@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install spellchecker
+          pip install pyspellchecker
           pip list
 
       - name: Run spelling check
