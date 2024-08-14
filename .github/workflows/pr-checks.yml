@@ -21,4 +21,4 @@ jobs:
         run: pip install pyenchant
 
       - name: Run spelling check
-        run: python spell_check.py
+        run: python github_actions.py
