@@ -1,0 +1,7522 @@
+[
+    {
+        "threshold": 0,
+        "percentile sum": 15943440,
+        "cumulative sum": 366305789
+    },
+    {
+        "threshold": 0.0001,
+        "percentile sum": 39602501,
+        "cumulative sum": 350362349
+    },
+    {
+        "threshold": 0.0002,
+        "percentile sum": 32592631,
+        "cumulative sum": 310759848
+    },
+    {
+        "threshold": 0.0003,
+        "percentile sum": 23299878,
+        "cumulative sum": 278167217
+    },
+    {
+        "threshold": 0.0004,
+        "percentile sum": 16018680,
+        "cumulative sum": 254867339
+    },
+    {
+        "threshold": 0.0005,
+        "percentile sum": 11424258,
+        "cumulative sum": 238848659
+    },
+    {
+        "threshold": 0.0006,
+        "percentile sum": 8622441,
+        "cumulative sum": 227424401
+    },
+    {
+        "threshold": 0.0007,
+        "percentile sum": 6789836,
+        "cumulative sum": 218801960
+    },
+    {
+        "threshold": 0.0008,
+        "percentile sum": 5515942,
+        "cumulative sum": 212012124
+    },
+    {
+        "threshold": 0.0009,
+        "percentile sum": 4553842,
+        "cumulative sum": 206496182
+    },
+    {
+        "threshold": 0.001,
+        "percentile sum": 3812910,
+        "cumulative sum": 201942340
+    },
+    {
+        "threshold": 0.0011,
+        "percentile sum": 3246578,
+        "cumulative sum": 198129430
+    },
+    {
+        "threshold": 0.0012,
+        "percentile sum": 2800848,
+        "cumulative sum": 194882852
+    },
+    {
+        "threshold": 0.0013,
+        "percentile sum": 2453932,
+        "cumulative sum": 192082004
+    },
+    {
+        "threshold": 0.0014,
+        "percentile sum": 2179055,
+        "cumulative sum": 189628072
+    },
+    {
+        "threshold": 0.0015,
+        "percentile sum": 1973955,
+        "cumulative sum": 187449017
+    },
+    {
+        "threshold": 0.0016,
+        "percentile sum": 1816348,
+        "cumulative sum": 185475062
+    },
+    {
+        "threshold": 0.0017,
+        "percentile sum": 1693886,
+        "cumulative sum": 183658714
+    },
+    {
+        "threshold": 0.0018,
+        "percentile sum": 1597236,
+        "cumulative sum": 181964828
+    },
+    {
+        "threshold": 0.0019,
+        "percentile sum": 1529140,
+        "cumulative sum": 180367592
+    },
+    {
+        "threshold": 0.002,
+        "percentile sum": 1468687,
+        "cumulative sum": 178838452
+    },
+    {
+        "threshold": 0.0021,
+        "percentile sum": 1427891,
+        "cumulative sum": 177369765
+    },
+    {
+        "threshold": 0.0022,
+        "percentile sum": 1398065,
+        "cumulative sum": 175941874
+    },
+    {
+        "threshold": 0.0023,
+        "percentile sum": 1383901,
+        "cumulative sum": 174543809
+    },
+    {
+        "threshold": 0.0024,
+        "percentile sum": 1370324,
+        "cumulative sum": 173159908
+    },
+    {
+        "threshold": 0.0025,
+        "percentile sum": 1362165,
+        "cumulative sum": 171789584
+    },
+    {
+        "threshold": 0.0026,
+        "percentile sum": 1345084,
+        "cumulative sum": 170427419
+    },
+    {
+        "threshold": 0.0027,
+        "percentile sum": 1312641,
+        "cumulative sum": 169082335
+    },
+    {
+        "threshold": 0.0028,
+        "percentile sum": 1280190,
+        "cumulative sum": 167769694
+    },
+    {
+        "threshold": 0.0029,
+        "percentile sum": 1250380,
+        "cumulative sum": 166489504
+    },
+    {
+        "threshold": 0.003,
+        "percentile sum": 1220721,
+        "cumulative sum": 165239124
+    },
+    {
+        "threshold": 0.0031,
+        "percentile sum": 1192122,
+        "cumulative sum": 164018403
+    },
+    {
+        "threshold": 0.0032,
+        "percentile sum": 1171439,
+        "cumulative sum": 162826281
+    },
+    {
+        "threshold": 0.0033,
+        "percentile sum": 1152835,
+        "cumulative sum": 161654842
+    },
+    {
+        "threshold": 0.0034,
+        "percentile sum": 1128021,
+        "cumulative sum": 160502007
+    },
+    {
+        "threshold": 0.0035,
+        "percentile sum": 1103105,
+        "cumulative sum": 159373986
+    },
+    {
+        "threshold": 0.0036,
+        "percentile sum": 1077174,
+        "cumulative sum": 158270881
+    },
+    {
+        "threshold": 0.0037,
+        "percentile sum": 1053313,
+        "cumulative sum": 157193707
+    },
+    {
+        "threshold": 0.0038,
+        "percentile sum": 1031964,
+        "cumulative sum": 156140394
+    },
+    {
+        "threshold": 0.0039,
+        "percentile sum": 1013929,
+        "cumulative sum": 155108430
+    },
+    {
+        "threshold": 0.004,
+        "percentile sum": 996088,
+        "cumulative sum": 154094501
+    },
+    {
+        "threshold": 0.0041,
+        "percentile sum": 972886,
+        "cumulative sum": 153098413
+    },
+    {
+        "threshold": 0.0042,
+        "percentile sum": 953426,
+        "cumulative sum": 152125527
+    },
+    {
+        "threshold": 0.0043,
+        "percentile sum": 933359,
+        "cumulative sum": 151172101
+    },
+    {
+        "threshold": 0.0044,
+        "percentile sum": 916635,
+        "cumulative sum": 150238742
+    },
+    {
+        "threshold": 0.0045,
+        "percentile sum": 898105,
+        "cumulative sum": 149322107
+    },
+    {
+        "threshold": 0.0046,
+        "percentile sum": 882584,
+        "cumulative sum": 148424002
+    },
+    {
+        "threshold": 0.0047,
+        "percentile sum": 867180,
+        "cumulative sum": 147541418
+    },
+    {
+        "threshold": 0.0048,
+        "percentile sum": 855339,
+        "cumulative sum": 146674238
+    },
+    {
+        "threshold": 0.0049,
+        "percentile sum": 833067,
+        "cumulative sum": 145818899
+    },
+    {
+        "threshold": 0.005,
+        "percentile sum": 817973,
+        "cumulative sum": 144985832
+    },
+    {
+        "threshold": 0.0051,
+        "percentile sum": 797778,
+        "cumulative sum": 144167859
+    },
+    {
+        "threshold": 0.0052,
+        "percentile sum": 781835,
+        "cumulative sum": 143370081
+    },
+    {
+        "threshold": 0.0053,
+        "percentile sum": 770576,
+        "cumulative sum": 142588246
+    },
+    {
+        "threshold": 0.0054,
+        "percentile sum": 753789,
+        "cumulative sum": 141817670
+    },
+    {
+        "threshold": 0.0055,
+        "percentile sum": 740618,
+        "cumulative sum": 141063881
+    },
+    {
+        "threshold": 0.0056,
+        "percentile sum": 724725,
+        "cumulative sum": 140323263
+    },
+    {
+        "threshold": 0.0057,
+        "percentile sum": 713724,
+        "cumulative sum": 139598538
+    },
+    {
+        "threshold": 0.0058,
+        "percentile sum": 703848,
+        "cumulative sum": 138884814
+    },
+    {
+        "threshold": 0.0059,
+        "percentile sum": 684930,
+        "cumulative sum": 138180966
+    },
+    {
+        "threshold": 0.006,
+        "percentile sum": 672936,
+        "cumulative sum": 137496036
+    },
+    {
+        "threshold": 0.0061,
+        "percentile sum": 664153,
+        "cumulative sum": 136823100
+    },
+    {
+        "threshold": 0.0062,
+        "percentile sum": 651355,
+        "cumulative sum": 136158947
+    },
+    {
+        "threshold": 0.0063,
+        "percentile sum": 639742,
+        "cumulative sum": 135507592
+    },
+    {
+        "threshold": 0.0064,
+        "percentile sum": 627644,
+        "cumulative sum": 134867850
+    },
+    {
+        "threshold": 0.0065,
+        "percentile sum": 617689,
+        "cumulative sum": 134240206
+    },
+    {
+        "threshold": 0.0066,
+        "percentile sum": 607590,
+        "cumulative sum": 133622517
+    },
+    {
+        "threshold": 0.0067,
+        "percentile sum": 597523,
+        "cumulative sum": 133014927
+    },
+    {
+        "threshold": 0.0068,
+        "percentile sum": 585570,
+        "cumulative sum": 132417404
+    },
+    {
+        "threshold": 0.0069,
+        "percentile sum": 574217,
+        "cumulative sum": 131831834
+    },
+    {
+        "threshold": 0.007,
+        "percentile sum": 564745,
+        "cumulative sum": 131257617
+    },
+    {
+        "threshold": 0.0071,
+        "percentile sum": 555897,
+        "cumulative sum": 130692872
+    },
+    {
+        "threshold": 0.0072,
+        "percentile sum": 546994,
+        "cumulative sum": 130136975
+    },
+    {
+        "threshold": 0.0073,
+        "percentile sum": 537822,
+        "cumulative sum": 129589981
+    },
+    {
+        "threshold": 0.0074,
+        "percentile sum": 527179,
+        "cumulative sum": 129052159
+    },
+    {
+        "threshold": 0.0075,
+        "percentile sum": 519076,
+        "cumulative sum": 128524980
+    },
+    {
+        "threshold": 0.0076,
+        "percentile sum": 508285,
+        "cumulative sum": 128005904
+    },
+    {
+        "threshold": 0.0077,
+        "percentile sum": 500568,
+        "cumulative sum": 127497619
+    },
+    {
+        "threshold": 0.0078,
+        "percentile sum": 495055,
+        "cumulative sum": 126997051
+    },
+    {
+        "threshold": 0.0079,
+        "percentile sum": 484420,
+        "cumulative sum": 126501996
+    },
+    {
+        "threshold": 0.008,
+        "percentile sum": 478349,
+        "cumulative sum": 126017576
+    },
+    {
+        "threshold": 0.0081,
+        "percentile sum": 470660,
+        "cumulative sum": 125539227
+    },
+    {
+        "threshold": 0.0082,
+        "percentile sum": 460401,
+        "cumulative sum": 125068567
+    },
+    {
+        "threshold": 0.0083,
+        "percentile sum": 454992,
+        "cumulative sum": 124608166
+    },
+    {
+        "threshold": 0.0084,
+        "percentile sum": 449038,
+        "cumulative sum": 124153174
+    },
+    {
+        "threshold": 0.0085,
+        "percentile sum": 443102,
+        "cumulative sum": 123704136
+    },
+    {
+        "threshold": 0.0086,
+        "percentile sum": 434963,
+        "cumulative sum": 123261034
+    },
+    {
+        "threshold": 0.0087,
+        "percentile sum": 428598,
+        "cumulative sum": 122826071
+    },
+    {
+        "threshold": 0.0088,
+        "percentile sum": 425899,
+        "cumulative sum": 122397473
+    },
+    {
+        "threshold": 0.0089,
+        "percentile sum": 420252,
+        "cumulative sum": 121971574
+    },
+    {
+        "threshold": 0.009,
+        "percentile sum": 411206,
+        "cumulative sum": 121551322
+    },
+    {
+        "threshold": 0.0091,
+        "percentile sum": 403969,
+        "cumulative sum": 121140116
+    },
+    {
+        "threshold": 0.0092,
+        "percentile sum": 400337,
+        "cumulative sum": 120736147
+    },
+    {
+        "threshold": 0.0093,
+        "percentile sum": 394697,
+        "cumulative sum": 120335810
+    },
+    {
+        "threshold": 0.0094,
+        "percentile sum": 387959,
+        "cumulative sum": 119941113
+    },
+    {
+        "threshold": 0.0095,
+        "percentile sum": 382162,
+        "cumulative sum": 119553154
+    },
+    {
+        "threshold": 0.0096,
+        "percentile sum": 378570,
+        "cumulative sum": 119170992
+    },
+    {
+        "threshold": 0.0097,
+        "percentile sum": 374540,
+        "cumulative sum": 118792422
+    },
+    {
+        "threshold": 0.0098,
+        "percentile sum": 370277,
+        "cumulative sum": 118417882
+    },
+    {
+        "threshold": 0.0099,
+        "percentile sum": 364189,
+        "cumulative sum": 118047605
+    },
+    {
+        "threshold": 0.01,
+        "percentile sum": 360593,
+        "cumulative sum": 117683416
+    },
+    {
+        "threshold": 0.0101,
+        "percentile sum": 355671,
+        "cumulative sum": 117322823
+    },
+    {
+        "threshold": 0.0102,
+        "percentile sum": 349261,
+        "cumulative sum": 116967152
+    },
+    {
+        "threshold": 0.0103,
+        "percentile sum": 345900,
+        "cumulative sum": 116617891
+    },
+    {
+        "threshold": 0.0104,
+        "percentile sum": 342999,
+        "cumulative sum": 116271991
+    },
+    {
+        "threshold": 0.0105,
+        "percentile sum": 339281,
+        "cumulative sum": 115928992
+    },
+    {
+        "threshold": 0.0106,
+        "percentile sum": 334693,
+        "cumulative sum": 115589711
+    },
+    {
+        "threshold": 0.0107,
+        "percentile sum": 332035,
+        "cumulative sum": 115255018
+    },
+    {
+        "threshold": 0.0108,
+        "percentile sum": 327304,
+        "cumulative sum": 114922983
+    },
+    {
+        "threshold": 0.0109,
+        "percentile sum": 324200,
+        "cumulative sum": 114595679
+    },
+    {
+        "threshold": 0.011,
+        "percentile sum": 320685,
+        "cumulative sum": 114271479
+    },
+    {
+        "threshold": 0.0111,
+        "percentile sum": 317542,
+        "cumulative sum": 113950794
+    },
+    {
+        "threshold": 0.0112,
+        "percentile sum": 314143,
+        "cumulative sum": 113633252
+    },
+    {
+        "threshold": 0.0113,
+        "percentile sum": 310890,
+        "cumulative sum": 113319109
+    },
+    {
+        "threshold": 0.0114,
+        "percentile sum": 311425,
+        "cumulative sum": 113008219
+    },
+    {
+        "threshold": 0.0115,
+        "percentile sum": 303982,
+        "cumulative sum": 112696794
+    },
+    {
+        "threshold": 0.0116,
+        "percentile sum": 301315,
+        "cumulative sum": 112392812
+    },
+    {
+        "threshold": 0.0117,
+        "percentile sum": 298929,
+        "cumulative sum": 112091497
+    },
+    {
+        "threshold": 0.0118,
+        "percentile sum": 298025,
+        "cumulative sum": 111792568
+    },
+    {
+        "threshold": 0.0119,
+        "percentile sum": 293562,
+        "cumulative sum": 111494543
+    },
+    {
+        "threshold": 0.012,
+        "percentile sum": 288725,
+        "cumulative sum": 111200981
+    },
+    {
+        "threshold": 0.0121,
+        "percentile sum": 285740,
+        "cumulative sum": 110912256
+    },
+    {
+        "threshold": 0.0122,
+        "percentile sum": 284654,
+        "cumulative sum": 110626516
+    },
+    {
+        "threshold": 0.0123,
+        "percentile sum": 281589,
+        "cumulative sum": 110341862
+    },
+    {
+        "threshold": 0.0124,
+        "percentile sum": 279268,
+        "cumulative sum": 110060273
+    },
+    {
+        "threshold": 0.0125,
+        "percentile sum": 277085,
+        "cumulative sum": 109781005
+    },
+    {
+        "threshold": 0.0126,
+        "percentile sum": 274162,
+        "cumulative sum": 109503920
+    },
+    {
+        "threshold": 0.0127,
+        "percentile sum": 272674,
+        "cumulative sum": 109229758
+    },
+    {
+        "threshold": 0.0128,
+        "percentile sum": 270069,
+        "cumulative sum": 108957084
+    },
+    {
+        "threshold": 0.0129,
+        "percentile sum": 267689,
+        "cumulative sum": 108687015
+    },
+    {
+        "threshold": 0.013,
+        "percentile sum": 266372,
+        "cumulative sum": 108419326
+    },
+    {
+        "threshold": 0.0131,
+        "percentile sum": 264218,
+        "cumulative sum": 108152954
+    },
+    {
+        "threshold": 0.0132,
+        "percentile sum": 262042,
+        "cumulative sum": 107888736
+    },
+    {
+        "threshold": 0.0133,
+        "percentile sum": 259694,
+        "cumulative sum": 107626694
+    },
+    {
+        "threshold": 0.0134,
+        "percentile sum": 256383,
+        "cumulative sum": 107367000
+    },
+    {
+        "threshold": 0.0135,
+        "percentile sum": 255261,
+        "cumulative sum": 107110617
+    },
+    {
+        "threshold": 0.0136,
+        "percentile sum": 254591,
+        "cumulative sum": 106855356
+    },
+    {
+        "threshold": 0.0137,
+        "percentile sum": 252081,
+        "cumulative sum": 106600765
+    },
+    {
+        "threshold": 0.0138,
+        "percentile sum": 250010,
+        "cumulative sum": 106348684
+    },
+    {
+        "threshold": 0.0139,
+        "percentile sum": 247724,
+        "cumulative sum": 106098674
+    },
+    {
+        "threshold": 0.014,
+        "percentile sum": 246823,
+        "cumulative sum": 105850950
+    },
+    {
+        "threshold": 0.0141,
+        "percentile sum": 247122,
+        "cumulative sum": 105604127
+    },
+    {
+        "threshold": 0.0142,
+        "percentile sum": 243436,
+        "cumulative sum": 105357005
+    },
+    {
+        "threshold": 0.0143,
+        "percentile sum": 243017,
+        "cumulative sum": 105113569
+    },
+    {
+        "threshold": 0.0144,
+        "percentile sum": 239897,
+        "cumulative sum": 104870552
+    },
+    {
+        "threshold": 0.0145,
+        "percentile sum": 238392,
+        "cumulative sum": 104630655
+    },
+    {
+        "threshold": 0.0146,
+        "percentile sum": 237096,
+        "cumulative sum": 104392263
+    },
+    {
+        "threshold": 0.0147,
+        "percentile sum": 235895,
+        "cumulative sum": 104155167
+    },
+    {
+        "threshold": 0.0148,
+        "percentile sum": 235130,
+        "cumulative sum": 103919272
+    },
+    {
+        "threshold": 0.0149,
+        "percentile sum": 231817,
+        "cumulative sum": 103684142
+    },
+    {
+        "threshold": 0.015,
+        "percentile sum": 232607,
+        "cumulative sum": 103452325
+    },
+    {
+        "threshold": 0.0151,
+        "percentile sum": 229657,
+        "cumulative sum": 103219718
+    },
+    {
+        "threshold": 0.0152,
+        "percentile sum": 229518,
+        "cumulative sum": 102990061
+    },
+    {
+        "threshold": 0.0153,
+        "percentile sum": 227853,
+        "cumulative sum": 102760543
+    },
+    {
+        "threshold": 0.0154,
+        "percentile sum": 226374,
+        "cumulative sum": 102532690
+    },
+    {
+        "threshold": 0.0155,
+        "percentile sum": 225983,
+        "cumulative sum": 102306316
+    },
+    {
+        "threshold": 0.0156,
+        "percentile sum": 224838,
+        "cumulative sum": 102080333
+    },
+    {
+        "threshold": 0.0157,
+        "percentile sum": 223015,
+        "cumulative sum": 101855495
+    },
+    {
+        "threshold": 0.0158,
+        "percentile sum": 222145,
+        "cumulative sum": 101632480
+    },
+    {
+        "threshold": 0.0159,
+        "percentile sum": 220085,
+        "cumulative sum": 101410335
+    },
+    {
+        "threshold": 0.016,
+        "percentile sum": 221689,
+        "cumulative sum": 101190250
+    },
+    {
+        "threshold": 0.0161,
+        "percentile sum": 219555,
+        "cumulative sum": 100968561
+    },
+    {
+        "threshold": 0.0162,
+        "percentile sum": 217309,
+        "cumulative sum": 100749006
+    },
+    {
+        "threshold": 0.0163,
+        "percentile sum": 217255,
+        "cumulative sum": 100531697
+    },
+    {
+        "threshold": 0.0164,
+        "percentile sum": 214984,
+        "cumulative sum": 100314442
+    },
+    {
+        "threshold": 0.0165,
+        "percentile sum": 213805,
+        "cumulative sum": 100099458
+    },
+    {
+        "threshold": 0.0166,
+        "percentile sum": 213680,
+        "cumulative sum": 99885653
+    },
+    {
+        "threshold": 0.0167,
+        "percentile sum": 213193,
+        "cumulative sum": 99671973
+    },
+    {
+        "threshold": 0.0168,
+        "percentile sum": 212323,
+        "cumulative sum": 99458780
+    },
+    {
+        "threshold": 0.0169,
+        "percentile sum": 210921,
+        "cumulative sum": 99246457
+    },
+    {
+        "threshold": 0.017,
+        "percentile sum": 209898,
+        "cumulative sum": 99035536
+    },
+    {
+        "threshold": 0.0171,
+        "percentile sum": 209689,
+        "cumulative sum": 98825638
+    },
+    {
+        "threshold": 0.0172,
+        "percentile sum": 208541,
+        "cumulative sum": 98615949
+    },
+    {
+        "threshold": 0.0173,
+        "percentile sum": 208375,
+        "cumulative sum": 98407408
+    },
+    {
+        "threshold": 0.0174,
+        "percentile sum": 207139,
+        "cumulative sum": 98199033
+    },
+    {
+        "threshold": 0.0175,
+        "percentile sum": 206484,
+        "cumulative sum": 97991894
+    },
+    {
+        "threshold": 0.0176,
+        "percentile sum": 206108,
+        "cumulative sum": 97785410
+    },
+    {
+        "threshold": 0.0177,
+        "percentile sum": 204566,
+        "cumulative sum": 97579302
+    },
+    {
+        "threshold": 0.0178,
+        "percentile sum": 204361,
+        "cumulative sum": 97374736
+    },
+    {
+        "threshold": 0.0179,
+        "percentile sum": 203216,
+        "cumulative sum": 97170375
+    },
+    {
+        "threshold": 0.018,
+        "percentile sum": 203446,
+        "cumulative sum": 96967159
+    },
+    {
+        "threshold": 0.0181,
+        "percentile sum": 204168,
+        "cumulative sum": 96763713
+    },
+    {
+        "threshold": 0.0182,
+        "percentile sum": 201601,
+        "cumulative sum": 96559545
+    },
+    {
+        "threshold": 0.0183,
+        "percentile sum": 202748,
+        "cumulative sum": 96357944
+    },
+    {
+        "threshold": 0.0184,
+        "percentile sum": 199607,
+        "cumulative sum": 96155196
+    },
+    {
+        "threshold": 0.0185,
+        "percentile sum": 199502,
+        "cumulative sum": 95955589
+    },
+    {
+        "threshold": 0.0186,
+        "percentile sum": 198938,
+        "cumulative sum": 95756087
+    },
+    {
+        "threshold": 0.0187,
+        "percentile sum": 198592,
+        "cumulative sum": 95557149
+    },
+    {
+        "threshold": 0.0188,
+        "percentile sum": 197048,
+        "cumulative sum": 95358557
+    },
+    {
+        "threshold": 0.0189,
+        "percentile sum": 198289,
+        "cumulative sum": 95161509
+    },
+    {
+        "threshold": 0.019,
+        "percentile sum": 196826,
+        "cumulative sum": 94963220
+    },
+    {
+        "threshold": 0.0191,
+        "percentile sum": 196823,
+        "cumulative sum": 94766394
+    },
+    {
+        "threshold": 0.0192,
+        "percentile sum": 195298,
+        "cumulative sum": 94569571
+    },
+    {
+        "threshold": 0.0193,
+        "percentile sum": 196778,
+        "cumulative sum": 94374273
+    },
+    {
+        "threshold": 0.0194,
+        "percentile sum": 196305,
+        "cumulative sum": 94177495
+    },
+    {
+        "threshold": 0.0195,
+        "percentile sum": 195117,
+        "cumulative sum": 93981190
+    },
+    {
+        "threshold": 0.0196,
+        "percentile sum": 194995,
+        "cumulative sum": 93786073
+    },
+    {
+        "threshold": 0.0197,
+        "percentile sum": 194424,
+        "cumulative sum": 93591078
+    },
+    {
+        "threshold": 0.0198,
+        "percentile sum": 193293,
+        "cumulative sum": 93396654
+    },
+    {
+        "threshold": 0.0199,
+        "percentile sum": 192812,
+        "cumulative sum": 93203361
+    },
+    {
+        "threshold": 0.02,
+        "percentile sum": 193067,
+        "cumulative sum": 93010549
+    },
+    {
+        "threshold": 0.0201,
+        "percentile sum": 192350,
+        "cumulative sum": 92817482
+    },
+    {
+        "threshold": 0.0202,
+        "percentile sum": 192863,
+        "cumulative sum": 92625132
+    },
+    {
+        "threshold": 0.0203,
+        "percentile sum": 192115,
+        "cumulative sum": 92432269
+    },
+    {
+        "threshold": 0.0204,
+        "percentile sum": 191982,
+        "cumulative sum": 92240154
+    },
+    {
+        "threshold": 0.0205,
+        "percentile sum": 191748,
+        "cumulative sum": 92048172
+    },
+    {
+        "threshold": 0.0206,
+        "percentile sum": 190968,
+        "cumulative sum": 91856424
+    },
+    {
+        "threshold": 0.0207,
+        "percentile sum": 190846,
+        "cumulative sum": 91665456
+    },
+    {
+        "threshold": 0.0208,
+        "percentile sum": 190247,
+        "cumulative sum": 91474610
+    },
+    {
+        "threshold": 0.0209,
+        "percentile sum": 190615,
+        "cumulative sum": 91284363
+    },
+    {
+        "threshold": 0.021,
+        "percentile sum": 190589,
+        "cumulative sum": 91093748
+    },
+    {
+        "threshold": 0.0211,
+        "percentile sum": 189418,
+        "cumulative sum": 90903159
+    },
+    {
+        "threshold": 0.0212,
+        "percentile sum": 189994,
+        "cumulative sum": 90713741
+    },
+    {
+        "threshold": 0.0213,
+        "percentile sum": 188810,
+        "cumulative sum": 90523747
+    },
+    {
+        "threshold": 0.0214,
+        "percentile sum": 189913,
+        "cumulative sum": 90334937
+    },
+    {
+        "threshold": 0.0215,
+        "percentile sum": 187976,
+        "cumulative sum": 90145024
+    },
+    {
+        "threshold": 0.0216,
+        "percentile sum": 187610,
+        "cumulative sum": 89957048
+    },
+    {
+        "threshold": 0.0217,
+        "percentile sum": 189710,
+        "cumulative sum": 89769438
+    },
+    {
+        "threshold": 0.0218,
+        "percentile sum": 189572,
+        "cumulative sum": 89579728
+    },
+    {
+        "threshold": 0.0219,
+        "percentile sum": 188962,
+        "cumulative sum": 89390156
+    },
+    {
+        "threshold": 0.022,
+        "percentile sum": 188139,
+        "cumulative sum": 89201194
+    },
+    {
+        "threshold": 0.0221,
+        "percentile sum": 188502,
+        "cumulative sum": 89013055
+    },
+    {
+        "threshold": 0.0222,
+        "percentile sum": 188211,
+        "cumulative sum": 88824553
+    },
+    {
+        "threshold": 0.0223,
+        "percentile sum": 187160,
+        "cumulative sum": 88636342
+    },
+    {
+        "threshold": 0.0224,
+        "percentile sum": 187008,
+        "cumulative sum": 88449182
+    },
+    {
+        "threshold": 0.0225,
+        "percentile sum": 188752,
+        "cumulative sum": 88262174
+    },
+    {
+        "threshold": 0.0226,
+        "percentile sum": 186929,
+        "cumulative sum": 88073422
+    },
+    {
+        "threshold": 0.0227,
+        "percentile sum": 189803,
+        "cumulative sum": 87886493
+    },
+    {
+        "threshold": 0.0228,
+        "percentile sum": 189398,
+        "cumulative sum": 87696690
+    },
+    {
+        "threshold": 0.0229,
+        "percentile sum": 186757,
+        "cumulative sum": 87507292
+    },
+    {
+        "threshold": 0.023,
+        "percentile sum": 189122,
+        "cumulative sum": 87320535
+    },
+    {
+        "threshold": 0.0231,
+        "percentile sum": 187998,
+        "cumulative sum": 87131413
+    },
+    {
+        "threshold": 0.0232,
+        "percentile sum": 186502,
+        "cumulative sum": 86943415
+    },
+    {
+        "threshold": 0.0233,
+        "percentile sum": 188253,
+        "cumulative sum": 86756913
+    },
+    {
+        "threshold": 0.0234,
+        "percentile sum": 187698,
+        "cumulative sum": 86568660
+    },
+    {
+        "threshold": 0.0235,
+        "percentile sum": 188221,
+        "cumulative sum": 86380962
+    },
+    {
+        "threshold": 0.0236,
+        "percentile sum": 185655,
+        "cumulative sum": 86192741
+    },
+    {
+        "threshold": 0.0237,
+        "percentile sum": 187243,
+        "cumulative sum": 86007086
+    },
+    {
+        "threshold": 0.0238,
+        "percentile sum": 186118,
+        "cumulative sum": 85819843
+    },
+    {
+        "threshold": 0.0239,
+        "percentile sum": 186365,
+        "cumulative sum": 85633725
+    },
+    {
+        "threshold": 0.024,
+        "percentile sum": 187176,
+        "cumulative sum": 85447360
+    },
+    {
+        "threshold": 0.0241,
+        "percentile sum": 186805,
+        "cumulative sum": 85260184
+    },
+    {
+        "threshold": 0.0242,
+        "percentile sum": 186651,
+        "cumulative sum": 85073379
+    },
+    {
+        "threshold": 0.0243,
+        "percentile sum": 187354,
+        "cumulative sum": 84886728
+    },
+    {
+        "threshold": 0.0244,
+        "percentile sum": 189355,
+        "cumulative sum": 84699374
+    },
+    {
+        "threshold": 0.0245,
+        "percentile sum": 186483,
+        "cumulative sum": 84510019
+    },
+    {
+        "threshold": 0.0246,
+        "percentile sum": 187046,
+        "cumulative sum": 84323536
+    },
+    {
+        "threshold": 0.0247,
+        "percentile sum": 188108,
+        "cumulative sum": 84136490
+    },
+    {
+        "threshold": 0.0248,
+        "percentile sum": 186852,
+        "cumulative sum": 83948382
+    },
+    {
+        "threshold": 0.0249,
+        "percentile sum": 188702,
+        "cumulative sum": 83761530
+    },
+    {
+        "threshold": 0.025,
+        "percentile sum": 187457,
+        "cumulative sum": 83572828
+    },
+    {
+        "threshold": 0.0251,
+        "percentile sum": 190940,
+        "cumulative sum": 83385371
+    },
+    {
+        "threshold": 0.0252,
+        "percentile sum": 187903,
+        "cumulative sum": 83194431
+    },
+    {
+        "threshold": 0.0253,
+        "percentile sum": 194733,
+        "cumulative sum": 83006528
+    },
+    {
+        "threshold": 0.0254,
+        "percentile sum": 188370,
+        "cumulative sum": 82811795
+    },
+    {
+        "threshold": 0.0255,
+        "percentile sum": 193386,
+        "cumulative sum": 82623425
+    },
+    {
+        "threshold": 0.0256,
+        "percentile sum": 203450,
+        "cumulative sum": 82430039
+    },
+    {
+        "threshold": 0.0257,
+        "percentile sum": 194539,
+        "cumulative sum": 82226589
+    },
+    {
+        "threshold": 0.0258,
+        "percentile sum": 193339,
+        "cumulative sum": 82032050
+    },
+    {
+        "threshold": 0.0259,
+        "percentile sum": 191965,
+        "cumulative sum": 81838711
+    },
+    {
+        "threshold": 0.026,
+        "percentile sum": 203839,
+        "cumulative sum": 81646746
+    },
+    {
+        "threshold": 0.0261,
+        "percentile sum": 190197,
+        "cumulative sum": 81442907
+    },
+    {
+        "threshold": 0.0262,
+        "percentile sum": 275513,
+        "cumulative sum": 81252710
+    },
+    {
+        "threshold": 0.0263,
+        "percentile sum": 184370,
+        "cumulative sum": 80977197
+    },
+    {
+        "threshold": 0.0264,
+        "percentile sum": 191915,
+        "cumulative sum": 80792827
+    },
+    {
+        "threshold": 0.0265,
+        "percentile sum": 185356,
+        "cumulative sum": 80600912
+    },
+    {
+        "threshold": 0.0266,
+        "percentile sum": 183166,
+        "cumulative sum": 80415556
+    },
+    {
+        "threshold": 0.0267,
+        "percentile sum": 184024,
+        "cumulative sum": 80232390
+    },
+    {
+        "threshold": 0.0268,
+        "percentile sum": 187795,
+        "cumulative sum": 80048366
+    },
+    {
+        "threshold": 0.0269,
+        "percentile sum": 182979,
+        "cumulative sum": 79860571
+    },
+    {
+        "threshold": 0.027,
+        "percentile sum": 186488,
+        "cumulative sum": 79677592
+    },
+    {
+        "threshold": 0.0271,
+        "percentile sum": 181843,
+        "cumulative sum": 79491104
+    },
+    {
+        "threshold": 0.0272,
+        "percentile sum": 182432,
+        "cumulative sum": 79309261
+    },
+    {
+        "threshold": 0.0273,
+        "percentile sum": 181607,
+        "cumulative sum": 79126829
+    },
+    {
+        "threshold": 0.0274,
+        "percentile sum": 178751,
+        "cumulative sum": 78945222
+    },
+    {
+        "threshold": 0.0275,
+        "percentile sum": 178888,
+        "cumulative sum": 78766471
+    },
+    {
+        "threshold": 0.0276,
+        "percentile sum": 177928,
+        "cumulative sum": 78587583
+    },
+    {
+        "threshold": 0.0277,
+        "percentile sum": 178347,
+        "cumulative sum": 78409655
+    },
+    {
+        "threshold": 0.0278,
+        "percentile sum": 176941,
+        "cumulative sum": 78231308
+    },
+    {
+        "threshold": 0.0279,
+        "percentile sum": 175593,
+        "cumulative sum": 78054367
+    },
+    {
+        "threshold": 0.028,
+        "percentile sum": 177026,
+        "cumulative sum": 77878774
+    },
+    {
+        "threshold": 0.0281,
+        "percentile sum": 175551,
+        "cumulative sum": 77701748
+    },
+    {
+        "threshold": 0.0282,
+        "percentile sum": 173796,
+        "cumulative sum": 77526197
+    },
+    {
+        "threshold": 0.0283,
+        "percentile sum": 173188,
+        "cumulative sum": 77352401
+    },
+    {
+        "threshold": 0.0284,
+        "percentile sum": 174781,
+        "cumulative sum": 77179213
+    },
+    {
+        "threshold": 0.0285,
+        "percentile sum": 173042,
+        "cumulative sum": 77004432
+    },
+    {
+        "threshold": 0.0286,
+        "percentile sum": 171448,
+        "cumulative sum": 76831390
+    },
+    {
+        "threshold": 0.0287,
+        "percentile sum": 172240,
+        "cumulative sum": 76659942
+    },
+    {
+        "threshold": 0.0288,
+        "percentile sum": 172800,
+        "cumulative sum": 76487702
+    },
+    {
+        "threshold": 0.0289,
+        "percentile sum": 170521,
+        "cumulative sum": 76314902
+    },
+    {
+        "threshold": 0.029,
+        "percentile sum": 171949,
+        "cumulative sum": 76144381
+    },
+    {
+        "threshold": 0.0291,
+        "percentile sum": 171859,
+        "cumulative sum": 75972432
+    },
+    {
+        "threshold": 0.0292,
+        "percentile sum": 172231,
+        "cumulative sum": 75800573
+    },
+    {
+        "threshold": 0.0293,
+        "percentile sum": 169717,
+        "cumulative sum": 75628342
+    },
+    {
+        "threshold": 0.0294,
+        "percentile sum": 171337,
+        "cumulative sum": 75458625
+    },
+    {
+        "threshold": 0.0295,
+        "percentile sum": 170512,
+        "cumulative sum": 75287288
+    },
+    {
+        "threshold": 0.0296,
+        "percentile sum": 168931,
+        "cumulative sum": 75116776
+    },
+    {
+        "threshold": 0.0297,
+        "percentile sum": 169228,
+        "cumulative sum": 74947845
+    },
+    {
+        "threshold": 0.0298,
+        "percentile sum": 169898,
+        "cumulative sum": 74778617
+    },
+    {
+        "threshold": 0.0299,
+        "percentile sum": 167810,
+        "cumulative sum": 74608719
+    },
+    {
+        "threshold": 0.03,
+        "percentile sum": 167848,
+        "cumulative sum": 74440909
+    },
+    {
+        "threshold": 0.0301,
+        "percentile sum": 167046,
+        "cumulative sum": 74273061
+    },
+    {
+        "threshold": 0.0302,
+        "percentile sum": 168106,
+        "cumulative sum": 74106015
+    },
+    {
+        "threshold": 0.0303,
+        "percentile sum": 166409,
+        "cumulative sum": 73937909
+    },
+    {
+        "threshold": 0.0304,
+        "percentile sum": 167141,
+        "cumulative sum": 73771500
+    },
+    {
+        "threshold": 0.0305,
+        "percentile sum": 167274,
+        "cumulative sum": 73604359
+    },
+    {
+        "threshold": 0.0306,
+        "percentile sum": 167013,
+        "cumulative sum": 73437085
+    },
+    {
+        "threshold": 0.0307,
+        "percentile sum": 166551,
+        "cumulative sum": 73270072
+    },
+    {
+        "threshold": 0.0308,
+        "percentile sum": 166546,
+        "cumulative sum": 73103521
+    },
+    {
+        "threshold": 0.0309,
+        "percentile sum": 167791,
+        "cumulative sum": 72936975
+    },
+    {
+        "threshold": 0.031,
+        "percentile sum": 165414,
+        "cumulative sum": 72769184
+    },
+    {
+        "threshold": 0.0311,
+        "percentile sum": 165128,
+        "cumulative sum": 72603770
+    },
+    {
+        "threshold": 0.0312,
+        "percentile sum": 165842,
+        "cumulative sum": 72438642
+    },
+    {
+        "threshold": 0.0313,
+        "percentile sum": 163140,
+        "cumulative sum": 72272800
+    },
+    {
+        "threshold": 0.0314,
+        "percentile sum": 163683,
+        "cumulative sum": 72109660
+    },
+    {
+        "threshold": 0.0315,
+        "percentile sum": 163655,
+        "cumulative sum": 71945977
+    },
+    {
+        "threshold": 0.0316,
+        "percentile sum": 163220,
+        "cumulative sum": 71782322
+    },
+    {
+        "threshold": 0.0317,
+        "percentile sum": 162500,
+        "cumulative sum": 71619102
+    },
+    {
+        "threshold": 0.0318,
+        "percentile sum": 161786,
+        "cumulative sum": 71456602
+    },
+    {
+        "threshold": 0.0319,
+        "percentile sum": 160424,
+        "cumulative sum": 71294816
+    },
+    {
+        "threshold": 0.032,
+        "percentile sum": 159685,
+        "cumulative sum": 71134392
+    },
+    {
+        "threshold": 0.0321,
+        "percentile sum": 159893,
+        "cumulative sum": 70974707
+    },
+    {
+        "threshold": 0.0322,
+        "percentile sum": 159625,
+        "cumulative sum": 70814814
+    },
+    {
+        "threshold": 0.0323,
+        "percentile sum": 159697,
+        "cumulative sum": 70655189
+    },
+    {
+        "threshold": 0.0324,
+        "percentile sum": 160187,
+        "cumulative sum": 70495492
+    },
+    {
+        "threshold": 0.0325,
+        "percentile sum": 160093,
+        "cumulative sum": 70335305
+    },
+    {
+        "threshold": 0.0326,
+        "percentile sum": 157895,
+        "cumulative sum": 70175212
+    },
+    {
+        "threshold": 0.0327,
+        "percentile sum": 158886,
+        "cumulative sum": 70017317
+    },
+    {
+        "threshold": 0.0328,
+        "percentile sum": 159069,
+        "cumulative sum": 69858431
+    },
+    {
+        "threshold": 0.0329,
+        "percentile sum": 157509,
+        "cumulative sum": 69699362
+    },
+    {
+        "threshold": 0.033,
+        "percentile sum": 157993,
+        "cumulative sum": 69541853
+    },
+    {
+        "threshold": 0.0331,
+        "percentile sum": 155569,
+        "cumulative sum": 69383860
+    },
+    {
+        "threshold": 0.0332,
+        "percentile sum": 156331,
+        "cumulative sum": 69228291
+    },
+    {
+        "threshold": 0.0333,
+        "percentile sum": 155764,
+        "cumulative sum": 69071960
+    },
+    {
+        "threshold": 0.0334,
+        "percentile sum": 155094,
+        "cumulative sum": 68916196
+    },
+    {
+        "threshold": 0.0335,
+        "percentile sum": 155161,
+        "cumulative sum": 68761102
+    },
+    {
+        "threshold": 0.0336,
+        "percentile sum": 153611,
+        "cumulative sum": 68605941
+    },
+    {
+        "threshold": 0.0337,
+        "percentile sum": 153558,
+        "cumulative sum": 68452330
+    },
+    {
+        "threshold": 0.0338,
+        "percentile sum": 153679,
+        "cumulative sum": 68298772
+    },
+    {
+        "threshold": 0.0339,
+        "percentile sum": 152097,
+        "cumulative sum": 68145093
+    },
+    {
+        "threshold": 0.034,
+        "percentile sum": 154070,
+        "cumulative sum": 67992996
+    },
+    {
+        "threshold": 0.0341,
+        "percentile sum": 152781,
+        "cumulative sum": 67838926
+    },
+    {
+        "threshold": 0.0342,
+        "percentile sum": 151717,
+        "cumulative sum": 67686145
+    },
+    {
+        "threshold": 0.0343,
+        "percentile sum": 151639,
+        "cumulative sum": 67534428
+    },
+    {
+        "threshold": 0.0344,
+        "percentile sum": 150317,
+        "cumulative sum": 67382789
+    },
+    {
+        "threshold": 0.0345,
+        "percentile sum": 149472,
+        "cumulative sum": 67232472
+    },
+    {
+        "threshold": 0.0346,
+        "percentile sum": 149681,
+        "cumulative sum": 67083000
+    },
+    {
+        "threshold": 0.0347,
+        "percentile sum": 150374,
+        "cumulative sum": 66933319
+    },
+    {
+        "threshold": 0.0348,
+        "percentile sum": 150236,
+        "cumulative sum": 66782945
+    },
+    {
+        "threshold": 0.0349,
+        "percentile sum": 149385,
+        "cumulative sum": 66632709
+    },
+    {
+        "threshold": 0.035,
+        "percentile sum": 149702,
+        "cumulative sum": 66483324
+    },
+    {
+        "threshold": 0.0351,
+        "percentile sum": 147761,
+        "cumulative sum": 66333622
+    },
+    {
+        "threshold": 0.0352,
+        "percentile sum": 148956,
+        "cumulative sum": 66185861
+    },
+    {
+        "threshold": 0.0353,
+        "percentile sum": 147784,
+        "cumulative sum": 66036905
+    },
+    {
+        "threshold": 0.0354,
+        "percentile sum": 146536,
+        "cumulative sum": 65889121
+    },
+    {
+        "threshold": 0.0355,
+        "percentile sum": 147830,
+        "cumulative sum": 65742585
+    },
+    {
+        "threshold": 0.0356,
+        "percentile sum": 147007,
+        "cumulative sum": 65594755
+    },
+    {
+        "threshold": 0.0357,
+        "percentile sum": 145074,
+        "cumulative sum": 65447748
+    },
+    {
+        "threshold": 0.0358,
+        "percentile sum": 144581,
+        "cumulative sum": 65302674
+    },
+    {
+        "threshold": 0.0359,
+        "percentile sum": 144437,
+        "cumulative sum": 65158093
+    },
+    {
+        "threshold": 0.036,
+        "percentile sum": 144459,
+        "cumulative sum": 65013656
+    },
+    {
+        "threshold": 0.0361,
+        "percentile sum": 144287,
+        "cumulative sum": 64869197
+    },
+    {
+        "threshold": 0.0362,
+        "percentile sum": 142727,
+        "cumulative sum": 64724910
+    },
+    {
+        "threshold": 0.0363,
+        "percentile sum": 143920,
+        "cumulative sum": 64582183
+    },
+    {
+        "threshold": 0.0364,
+        "percentile sum": 143139,
+        "cumulative sum": 64438263
+    },
+    {
+        "threshold": 0.0365,
+        "percentile sum": 142674,
+        "cumulative sum": 64295124
+    },
+    {
+        "threshold": 0.0366,
+        "percentile sum": 142533,
+        "cumulative sum": 64152450
+    },
+    {
+        "threshold": 0.0367,
+        "percentile sum": 141935,
+        "cumulative sum": 64009917
+    },
+    {
+        "threshold": 0.0368,
+        "percentile sum": 142050,
+        "cumulative sum": 63867982
+    },
+    {
+        "threshold": 0.0369,
+        "percentile sum": 141015,
+        "cumulative sum": 63725932
+    },
+    {
+        "threshold": 0.037,
+        "percentile sum": 140997,
+        "cumulative sum": 63584917
+    },
+    {
+        "threshold": 0.0371,
+        "percentile sum": 140878,
+        "cumulative sum": 63443920
+    },
+    {
+        "threshold": 0.0372,
+        "percentile sum": 139733,
+        "cumulative sum": 63303042
+    },
+    {
+        "threshold": 0.0373,
+        "percentile sum": 139969,
+        "cumulative sum": 63163309
+    },
+    {
+        "threshold": 0.0374,
+        "percentile sum": 138366,
+        "cumulative sum": 63023340
+    },
+    {
+        "threshold": 0.0375,
+        "percentile sum": 138768,
+        "cumulative sum": 62884974
+    },
+    {
+        "threshold": 0.0376,
+        "percentile sum": 137696,
+        "cumulative sum": 62746206
+    },
+    {
+        "threshold": 0.0377,
+        "percentile sum": 138730,
+        "cumulative sum": 62608510
+    },
+    {
+        "threshold": 0.0378,
+        "percentile sum": 136284,
+        "cumulative sum": 62469780
+    },
+    {
+        "threshold": 0.0379,
+        "percentile sum": 137472,
+        "cumulative sum": 62333496
+    },
+    {
+        "threshold": 0.038,
+        "percentile sum": 135757,
+        "cumulative sum": 62196024
+    },
+    {
+        "threshold": 0.0381,
+        "percentile sum": 136328,
+        "cumulative sum": 62060267
+    },
+    {
+        "threshold": 0.0382,
+        "percentile sum": 135984,
+        "cumulative sum": 61923939
+    },
+    {
+        "threshold": 0.0383,
+        "percentile sum": 135378,
+        "cumulative sum": 61787955
+    },
+    {
+        "threshold": 0.0384,
+        "percentile sum": 136119,
+        "cumulative sum": 61652577
+    },
+    {
+        "threshold": 0.0385,
+        "percentile sum": 135772,
+        "cumulative sum": 61516458
+    },
+    {
+        "threshold": 0.0386,
+        "percentile sum": 134330,
+        "cumulative sum": 61380686
+    },
+    {
+        "threshold": 0.0387,
+        "percentile sum": 133772,
+        "cumulative sum": 61246356
+    },
+    {
+        "threshold": 0.0388,
+        "percentile sum": 133387,
+        "cumulative sum": 61112584
+    },
+    {
+        "threshold": 0.0389,
+        "percentile sum": 133949,
+        "cumulative sum": 60979197
+    },
+    {
+        "threshold": 0.039,
+        "percentile sum": 132658,
+        "cumulative sum": 60845248
+    },
+    {
+        "threshold": 0.0391,
+        "percentile sum": 133084,
+        "cumulative sum": 60712590
+    },
+    {
+        "threshold": 0.0392,
+        "percentile sum": 131270,
+        "cumulative sum": 60579506
+    },
+    {
+        "threshold": 0.0393,
+        "percentile sum": 132653,
+        "cumulative sum": 60448236
+    },
+    {
+        "threshold": 0.0394,
+        "percentile sum": 130680,
+        "cumulative sum": 60315583
+    },
+    {
+        "threshold": 0.0395,
+        "percentile sum": 131230,
+        "cumulative sum": 60184903
+    },
+    {
+        "threshold": 0.0396,
+        "percentile sum": 131141,
+        "cumulative sum": 60053673
+    },
+    {
+        "threshold": 0.0397,
+        "percentile sum": 130789,
+        "cumulative sum": 59922532
+    },
+    {
+        "threshold": 0.0398,
+        "percentile sum": 129369,
+        "cumulative sum": 59791743
+    },
+    {
+        "threshold": 0.0399,
+        "percentile sum": 129992,
+        "cumulative sum": 59662374
+    },
+    {
+        "threshold": 0.04,
+        "percentile sum": 128902,
+        "cumulative sum": 59532382
+    },
+    {
+        "threshold": 0.0401,
+        "percentile sum": 128288,
+        "cumulative sum": 59403480
+    },
+    {
+        "threshold": 0.0402,
+        "percentile sum": 127441,
+        "cumulative sum": 59275192
+    },
+    {
+        "threshold": 0.0403,
+        "percentile sum": 126986,
+        "cumulative sum": 59147751
+    },
+    {
+        "threshold": 0.0404,
+        "percentile sum": 127761,
+        "cumulative sum": 59020765
+    },
+    {
+        "threshold": 0.0405,
+        "percentile sum": 127600,
+        "cumulative sum": 58893004
+    },
+    {
+        "threshold": 0.0406,
+        "percentile sum": 125920,
+        "cumulative sum": 58765404
+    },
+    {
+        "threshold": 0.0407,
+        "percentile sum": 125608,
+        "cumulative sum": 58639484
+    },
+    {
+        "threshold": 0.0408,
+        "percentile sum": 126452,
+        "cumulative sum": 58513876
+    },
+    {
+        "threshold": 0.0409,
+        "percentile sum": 126230,
+        "cumulative sum": 58387424
+    },
+    {
+        "threshold": 0.041,
+        "percentile sum": 124727,
+        "cumulative sum": 58261194
+    },
+    {
+        "threshold": 0.0411,
+        "percentile sum": 124733,
+        "cumulative sum": 58136467
+    },
+    {
+        "threshold": 0.0412,
+        "percentile sum": 124488,
+        "cumulative sum": 58011734
+    },
+    {
+        "threshold": 0.0413,
+        "percentile sum": 124748,
+        "cumulative sum": 57887246
+    },
+    {
+        "threshold": 0.0414,
+        "percentile sum": 124662,
+        "cumulative sum": 57762498
+    },
+    {
+        "threshold": 0.0415,
+        "percentile sum": 123161,
+        "cumulative sum": 57637836
+    },
+    {
+        "threshold": 0.0416,
+        "percentile sum": 122193,
+        "cumulative sum": 57514675
+    },
+    {
+        "threshold": 0.0417,
+        "percentile sum": 122161,
+        "cumulative sum": 57392482
+    },
+    {
+        "threshold": 0.0418,
+        "percentile sum": 122367,
+        "cumulative sum": 57270321
+    },
+    {
+        "threshold": 0.0419,
+        "percentile sum": 122929,
+        "cumulative sum": 57147954
+    },
+    {
+        "threshold": 0.042,
+        "percentile sum": 122835,
+        "cumulative sum": 57025025
+    },
+    {
+        "threshold": 0.0421,
+        "percentile sum": 122301,
+        "cumulative sum": 56902190
+    },
+    {
+        "threshold": 0.0422,
+        "percentile sum": 122054,
+        "cumulative sum": 56779889
+    },
+    {
+        "threshold": 0.0423,
+        "percentile sum": 121045,
+        "cumulative sum": 56657835
+    },
+    {
+        "threshold": 0.0424,
+        "percentile sum": 120505,
+        "cumulative sum": 56536790
+    },
+    {
+        "threshold": 0.0425,
+        "percentile sum": 119796,
+        "cumulative sum": 56416285
+    },
+    {
+        "threshold": 0.0426,
+        "percentile sum": 118776,
+        "cumulative sum": 56296489
+    },
+    {
+        "threshold": 0.0427,
+        "percentile sum": 119549,
+        "cumulative sum": 56177713
+    },
+    {
+        "threshold": 0.0428,
+        "percentile sum": 119894,
+        "cumulative sum": 56058164
+    },
+    {
+        "threshold": 0.0429,
+        "percentile sum": 118978,
+        "cumulative sum": 55938270
+    },
+    {
+        "threshold": 0.043,
+        "percentile sum": 117516,
+        "cumulative sum": 55819292
+    },
+    {
+        "threshold": 0.0431,
+        "percentile sum": 118476,
+        "cumulative sum": 55701776
+    },
+    {
+        "threshold": 0.0432,
+        "percentile sum": 118168,
+        "cumulative sum": 55583300
+    },
+    {
+        "threshold": 0.0433,
+        "percentile sum": 117447,
+        "cumulative sum": 55465132
+    },
+    {
+        "threshold": 0.0434,
+        "percentile sum": 117393,
+        "cumulative sum": 55347685
+    },
+    {
+        "threshold": 0.0435,
+        "percentile sum": 116931,
+        "cumulative sum": 55230292
+    },
+    {
+        "threshold": 0.0436,
+        "percentile sum": 117085,
+        "cumulative sum": 55113361
+    },
+    {
+        "threshold": 0.0437,
+        "percentile sum": 115763,
+        "cumulative sum": 54996276
+    },
+    {
+        "threshold": 0.0438,
+        "percentile sum": 116024,
+        "cumulative sum": 54880513
+    },
+    {
+        "threshold": 0.0439,
+        "percentile sum": 117028,
+        "cumulative sum": 54764489
+    },
+    {
+        "threshold": 0.044,
+        "percentile sum": 115518,
+        "cumulative sum": 54647461
+    },
+    {
+        "threshold": 0.0441,
+        "percentile sum": 115126,
+        "cumulative sum": 54531943
+    },
+    {
+        "threshold": 0.0442,
+        "percentile sum": 113888,
+        "cumulative sum": 54416817
+    },
+    {
+        "threshold": 0.0443,
+        "percentile sum": 114104,
+        "cumulative sum": 54302929
+    },
+    {
+        "threshold": 0.0444,
+        "percentile sum": 114579,
+        "cumulative sum": 54188825
+    },
+    {
+        "threshold": 0.0445,
+        "percentile sum": 113705,
+        "cumulative sum": 54074246
+    },
+    {
+        "threshold": 0.0446,
+        "percentile sum": 112955,
+        "cumulative sum": 53960541
+    },
+    {
+        "threshold": 0.0447,
+        "percentile sum": 112749,
+        "cumulative sum": 53847586
+    },
+    {
+        "threshold": 0.0448,
+        "percentile sum": 113600,
+        "cumulative sum": 53734837
+    },
+    {
+        "threshold": 0.0449,
+        "percentile sum": 111145,
+        "cumulative sum": 53621237
+    },
+    {
+        "threshold": 0.045,
+        "percentile sum": 110555,
+        "cumulative sum": 53510092
+    },
+    {
+        "threshold": 0.0451,
+        "percentile sum": 110567,
+        "cumulative sum": 53399537
+    },
+    {
+        "threshold": 0.0452,
+        "percentile sum": 112145,
+        "cumulative sum": 53288970
+    },
+    {
+        "threshold": 0.0453,
+        "percentile sum": 111899,
+        "cumulative sum": 53176825
+    },
+    {
+        "threshold": 0.0454,
+        "percentile sum": 110714,
+        "cumulative sum": 53064926
+    },
+    {
+        "threshold": 0.0455,
+        "percentile sum": 110317,
+        "cumulative sum": 52954212
+    },
+    {
+        "threshold": 0.0456,
+        "percentile sum": 110581,
+        "cumulative sum": 52843895
+    },
+    {
+        "threshold": 0.0457,
+        "percentile sum": 111114,
+        "cumulative sum": 52733314
+    },
+    {
+        "threshold": 0.0458,
+        "percentile sum": 108711,
+        "cumulative sum": 52622200
+    },
+    {
+        "threshold": 0.0459,
+        "percentile sum": 109467,
+        "cumulative sum": 52513489
+    },
+    {
+        "threshold": 0.046,
+        "percentile sum": 108643,
+        "cumulative sum": 52404022
+    },
+    {
+        "threshold": 0.0461,
+        "percentile sum": 109568,
+        "cumulative sum": 52295379
+    },
+    {
+        "threshold": 0.0462,
+        "percentile sum": 108277,
+        "cumulative sum": 52185811
+    },
+    {
+        "threshold": 0.0463,
+        "percentile sum": 108356,
+        "cumulative sum": 52077534
+    },
+    {
+        "threshold": 0.0464,
+        "percentile sum": 107451,
+        "cumulative sum": 51969178
+    },
+    {
+        "threshold": 0.0465,
+        "percentile sum": 107770,
+        "cumulative sum": 51861727
+    },
+    {
+        "threshold": 0.0466,
+        "percentile sum": 107333,
+        "cumulative sum": 51753957
+    },
+    {
+        "threshold": 0.0467,
+        "percentile sum": 107760,
+        "cumulative sum": 51646624
+    },
+    {
+        "threshold": 0.0468,
+        "percentile sum": 106359,
+        "cumulative sum": 51538864
+    },
+    {
+        "threshold": 0.0469,
+        "percentile sum": 105879,
+        "cumulative sum": 51432505
+    },
+    {
+        "threshold": 0.047,
+        "percentile sum": 106748,
+        "cumulative sum": 51326626
+    },
+    {
+        "threshold": 0.0471,
+        "percentile sum": 106606,
+        "cumulative sum": 51219878
+    },
+    {
+        "threshold": 0.0472,
+        "percentile sum": 105319,
+        "cumulative sum": 51113272
+    },
+    {
+        "threshold": 0.0473,
+        "percentile sum": 104877,
+        "cumulative sum": 51007953
+    },
+    {
+        "threshold": 0.0474,
+        "percentile sum": 105338,
+        "cumulative sum": 50903076
+    },
+    {
+        "threshold": 0.0475,
+        "percentile sum": 104523,
+        "cumulative sum": 50797738
+    },
+    {
+        "threshold": 0.0476,
+        "percentile sum": 104354,
+        "cumulative sum": 50693215
+    },
+    {
+        "threshold": 0.0477,
+        "percentile sum": 104473,
+        "cumulative sum": 50588861
+    },
+    {
+        "threshold": 0.0478,
+        "percentile sum": 103902,
+        "cumulative sum": 50484388
+    },
+    {
+        "threshold": 0.0479,
+        "percentile sum": 105213,
+        "cumulative sum": 50380486
+    },
+    {
+        "threshold": 0.048,
+        "percentile sum": 104133,
+        "cumulative sum": 50275273
+    },
+    {
+        "threshold": 0.0481,
+        "percentile sum": 103093,
+        "cumulative sum": 50171140
+    },
+    {
+        "threshold": 0.0482,
+        "percentile sum": 103222,
+        "cumulative sum": 50068047
+    },
+    {
+        "threshold": 0.0483,
+        "percentile sum": 102721,
+        "cumulative sum": 49964825
+    },
+    {
+        "threshold": 0.0484,
+        "percentile sum": 102825,
+        "cumulative sum": 49862104
+    },
+    {
+        "threshold": 0.0485,
+        "percentile sum": 102126,
+        "cumulative sum": 49759279
+    },
+    {
+        "threshold": 0.0486,
+        "percentile sum": 102511,
+        "cumulative sum": 49657153
+    },
+    {
+        "threshold": 0.0487,
+        "percentile sum": 102454,
+        "cumulative sum": 49554642
+    },
+    {
+        "threshold": 0.0488,
+        "percentile sum": 102249,
+        "cumulative sum": 49452188
+    },
+    {
+        "threshold": 0.0489,
+        "percentile sum": 100923,
+        "cumulative sum": 49349939
+    },
+    {
+        "threshold": 0.049,
+        "percentile sum": 101763,
+        "cumulative sum": 49249016
+    },
+    {
+        "threshold": 0.0491,
+        "percentile sum": 101614,
+        "cumulative sum": 49147253
+    },
+    {
+        "threshold": 0.0492,
+        "percentile sum": 100787,
+        "cumulative sum": 49045639
+    },
+    {
+        "threshold": 0.0493,
+        "percentile sum": 101125,
+        "cumulative sum": 48944852
+    },
+    {
+        "threshold": 0.0494,
+        "percentile sum": 101055,
+        "cumulative sum": 48843727
+    },
+    {
+        "threshold": 0.0495,
+        "percentile sum": 100066,
+        "cumulative sum": 48742672
+    },
+    {
+        "threshold": 0.0496,
+        "percentile sum": 99829,
+        "cumulative sum": 48642606
+    },
+    {
+        "threshold": 0.0497,
+        "percentile sum": 99946,
+        "cumulative sum": 48542777
+    },
+    {
+        "threshold": 0.0498,
+        "percentile sum": 99483,
+        "cumulative sum": 48442831
+    },
+    {
+        "threshold": 0.0499,
+        "percentile sum": 100036,
+        "cumulative sum": 48343348
+    },
+    {
+        "threshold": 0.05,
+        "percentile sum": 99371,
+        "cumulative sum": 48243312
+    },
+    {
+        "threshold": 0.0501,
+        "percentile sum": 99739,
+        "cumulative sum": 48143941
+    },
+    {
+        "threshold": 0.0502,
+        "percentile sum": 98570,
+        "cumulative sum": 48044202
+    },
+    {
+        "threshold": 0.0503,
+        "percentile sum": 99474,
+        "cumulative sum": 47945632
+    },
+    {
+        "threshold": 0.0504,
+        "percentile sum": 97959,
+        "cumulative sum": 47846158
+    },
+    {
+        "threshold": 0.0505,
+        "percentile sum": 97990,
+        "cumulative sum": 47748199
+    },
+    {
+        "threshold": 0.0506,
+        "percentile sum": 98572,
+        "cumulative sum": 47650209
+    },
+    {
+        "threshold": 0.0507,
+        "percentile sum": 98360,
+        "cumulative sum": 47551637
+    },
+    {
+        "threshold": 0.0508,
+        "percentile sum": 97424,
+        "cumulative sum": 47453277
+    },
+    {
+        "threshold": 0.0509,
+        "percentile sum": 96861,
+        "cumulative sum": 47355853
+    },
+    {
+        "threshold": 0.051,
+        "percentile sum": 97917,
+        "cumulative sum": 47258992
+    },
+    {
+        "threshold": 0.0511,
+        "percentile sum": 97415,
+        "cumulative sum": 47161075
+    },
+    {
+        "threshold": 0.0512,
+        "percentile sum": 96538,
+        "cumulative sum": 47063660
+    },
+    {
+        "threshold": 0.0513,
+        "percentile sum": 96126,
+        "cumulative sum": 46967122
+    },
+    {
+        "threshold": 0.0514,
+        "percentile sum": 96403,
+        "cumulative sum": 46870996
+    },
+    {
+        "threshold": 0.0515,
+        "percentile sum": 95417,
+        "cumulative sum": 46774593
+    },
+    {
+        "threshold": 0.0516,
+        "percentile sum": 96549,
+        "cumulative sum": 46679176
+    },
+    {
+        "threshold": 0.0517,
+        "percentile sum": 95952,
+        "cumulative sum": 46582627
+    },
+    {
+        "threshold": 0.0518,
+        "percentile sum": 95793,
+        "cumulative sum": 46486675
+    },
+    {
+        "threshold": 0.0519,
+        "percentile sum": 94720,
+        "cumulative sum": 46390882
+    },
+    {
+        "threshold": 0.052,
+        "percentile sum": 95502,
+        "cumulative sum": 46296162
+    },
+    {
+        "threshold": 0.0521,
+        "percentile sum": 94076,
+        "cumulative sum": 46200660
+    },
+    {
+        "threshold": 0.0522,
+        "percentile sum": 93847,
+        "cumulative sum": 46106584
+    },
+    {
+        "threshold": 0.0523,
+        "percentile sum": 93702,
+        "cumulative sum": 46012737
+    },
+    {
+        "threshold": 0.0524,
+        "percentile sum": 93725,
+        "cumulative sum": 45919035
+    },
+    {
+        "threshold": 0.0525,
+        "percentile sum": 94053,
+        "cumulative sum": 45825310
+    },
+    {
+        "threshold": 0.0526,
+        "percentile sum": 93849,
+        "cumulative sum": 45731257
+    },
+    {
+        "threshold": 0.0527,
+        "percentile sum": 92664,
+        "cumulative sum": 45637408
+    },
+    {
+        "threshold": 0.0528,
+        "percentile sum": 93005,
+        "cumulative sum": 45544744
+    },
+    {
+        "threshold": 0.0529,
+        "percentile sum": 92667,
+        "cumulative sum": 45451739
+    },
+    {
+        "threshold": 0.053,
+        "percentile sum": 93478,
+        "cumulative sum": 45359072
+    },
+    {
+        "threshold": 0.0531,
+        "percentile sum": 92182,
+        "cumulative sum": 45265594
+    },
+    {
+        "threshold": 0.0532,
+        "percentile sum": 93294,
+        "cumulative sum": 45173412
+    },
+    {
+        "threshold": 0.0533,
+        "percentile sum": 91888,
+        "cumulative sum": 45080118
+    },
+    {
+        "threshold": 0.0534,
+        "percentile sum": 92990,
+        "cumulative sum": 44988230
+    },
+    {
+        "threshold": 0.0535,
+        "percentile sum": 92420,
+        "cumulative sum": 44895240
+    },
+    {
+        "threshold": 0.0536,
+        "percentile sum": 91426,
+        "cumulative sum": 44802820
+    },
+    {
+        "threshold": 0.0537,
+        "percentile sum": 91087,
+        "cumulative sum": 44711394
+    },
+    {
+        "threshold": 0.0538,
+        "percentile sum": 91583,
+        "cumulative sum": 44620307
+    },
+    {
+        "threshold": 0.0539,
+        "percentile sum": 90781,
+        "cumulative sum": 44528724
+    },
+    {
+        "threshold": 0.054,
+        "percentile sum": 91317,
+        "cumulative sum": 44437943
+    },
+    {
+        "threshold": 0.0541,
+        "percentile sum": 91036,
+        "cumulative sum": 44346626
+    },
+    {
+        "threshold": 0.0542,
+        "percentile sum": 91129,
+        "cumulative sum": 44255590
+    },
+    {
+        "threshold": 0.0543,
+        "percentile sum": 90586,
+        "cumulative sum": 44164461
+    },
+    {
+        "threshold": 0.0544,
+        "percentile sum": 90715,
+        "cumulative sum": 44073875
+    },
+    {
+        "threshold": 0.0545,
+        "percentile sum": 90680,
+        "cumulative sum": 43983160
+    },
+    {
+        "threshold": 0.0546,
+        "percentile sum": 89324,
+        "cumulative sum": 43892480
+    },
+    {
+        "threshold": 0.0547,
+        "percentile sum": 90043,
+        "cumulative sum": 43803156
+    },
+    {
+        "threshold": 0.0548,
+        "percentile sum": 90020,
+        "cumulative sum": 43713113
+    },
+    {
+        "threshold": 0.0549,
+        "percentile sum": 89291,
+        "cumulative sum": 43623093
+    },
+    {
+        "threshold": 0.055,
+        "percentile sum": 88778,
+        "cumulative sum": 43533802
+    },
+    {
+        "threshold": 0.0551,
+        "percentile sum": 89488,
+        "cumulative sum": 43445024
+    },
+    {
+        "threshold": 0.0552,
+        "percentile sum": 88716,
+        "cumulative sum": 43355536
+    },
+    {
+        "threshold": 0.0553,
+        "percentile sum": 88417,
+        "cumulative sum": 43266820
+    },
+    {
+        "threshold": 0.0554,
+        "percentile sum": 87412,
+        "cumulative sum": 43178403
+    },
+    {
+        "threshold": 0.0555,
+        "percentile sum": 88337,
+        "cumulative sum": 43090991
+    },
+    {
+        "threshold": 0.0556,
+        "percentile sum": 88124,
+        "cumulative sum": 43002654
+    },
+    {
+        "threshold": 0.0557,
+        "percentile sum": 88283,
+        "cumulative sum": 42914530
+    },
+    {
+        "threshold": 0.0558,
+        "percentile sum": 87555,
+        "cumulative sum": 42826247
+    },
+    {
+        "threshold": 0.0559,
+        "percentile sum": 88160,
+        "cumulative sum": 42738692
+    },
+    {
+        "threshold": 0.056,
+        "percentile sum": 87324,
+        "cumulative sum": 42650532
+    },
+    {
+        "threshold": 0.0561,
+        "percentile sum": 87225,
+        "cumulative sum": 42563208
+    },
+    {
+        "threshold": 0.0562,
+        "percentile sum": 86854,
+        "cumulative sum": 42475983
+    },
+    {
+        "threshold": 0.0563,
+        "percentile sum": 86918,
+        "cumulative sum": 42389129
+    },
+    {
+        "threshold": 0.0564,
+        "percentile sum": 86389,
+        "cumulative sum": 42302211
+    },
+    {
+        "threshold": 0.0565,
+        "percentile sum": 87125,
+        "cumulative sum": 42215822
+    },
+    {
+        "threshold": 0.0566,
+        "percentile sum": 85997,
+        "cumulative sum": 42128697
+    },
+    {
+        "threshold": 0.0567,
+        "percentile sum": 86160,
+        "cumulative sum": 42042700
+    },
+    {
+        "threshold": 0.0568,
+        "percentile sum": 86268,
+        "cumulative sum": 41956540
+    },
+    {
+        "threshold": 0.0569,
+        "percentile sum": 85844,
+        "cumulative sum": 41870272
+    },
+    {
+        "threshold": 0.057,
+        "percentile sum": 85322,
+        "cumulative sum": 41784428
+    },
+    {
+        "threshold": 0.0571,
+        "percentile sum": 85971,
+        "cumulative sum": 41699106
+    },
+    {
+        "threshold": 0.0572,
+        "percentile sum": 85254,
+        "cumulative sum": 41613135
+    },
+    {
+        "threshold": 0.0573,
+        "percentile sum": 85060,
+        "cumulative sum": 41527881
+    },
+    {
+        "threshold": 0.0574,
+        "percentile sum": 84591,
+        "cumulative sum": 41442821
+    },
+    {
+        "threshold": 0.0575,
+        "percentile sum": 85027,
+        "cumulative sum": 41358230
+    },
+    {
+        "threshold": 0.0576,
+        "percentile sum": 85525,
+        "cumulative sum": 41273203
+    },
+    {
+        "threshold": 0.0577,
+        "percentile sum": 85145,
+        "cumulative sum": 41187678
+    },
+    {
+        "threshold": 0.0578,
+        "percentile sum": 84206,
+        "cumulative sum": 41102533
+    },
+    {
+        "threshold": 0.0579,
+        "percentile sum": 84196,
+        "cumulative sum": 41018327
+    },
+    {
+        "threshold": 0.058,
+        "percentile sum": 83823,
+        "cumulative sum": 40934131
+    },
+    {
+        "threshold": 0.0581,
+        "percentile sum": 83789,
+        "cumulative sum": 40850308
+    },
+    {
+        "threshold": 0.0582,
+        "percentile sum": 83923,
+        "cumulative sum": 40766519
+    },
+    {
+        "threshold": 0.0583,
+        "percentile sum": 83587,
+        "cumulative sum": 40682596
+    },
+    {
+        "threshold": 0.0584,
+        "percentile sum": 83901,
+        "cumulative sum": 40599009
+    },
+    {
+        "threshold": 0.0585,
+        "percentile sum": 83013,
+        "cumulative sum": 40515108
+    },
+    {
+        "threshold": 0.0586,
+        "percentile sum": 83294,
+        "cumulative sum": 40432095
+    },
+    {
+        "threshold": 0.0587,
+        "percentile sum": 83366,
+        "cumulative sum": 40348801
+    },
+    {
+        "threshold": 0.0588,
+        "percentile sum": 83064,
+        "cumulative sum": 40265435
+    },
+    {
+        "threshold": 0.0589,
+        "percentile sum": 83073,
+        "cumulative sum": 40182371
+    },
+    {
+        "threshold": 0.059,
+        "percentile sum": 82576,
+        "cumulative sum": 40099298
+    },
+    {
+        "threshold": 0.0591,
+        "percentile sum": 82380,
+        "cumulative sum": 40016722
+    },
+    {
+        "threshold": 0.0592,
+        "percentile sum": 82028,
+        "cumulative sum": 39934342
+    },
+    {
+        "threshold": 0.0593,
+        "percentile sum": 81506,
+        "cumulative sum": 39852314
+    },
+    {
+        "threshold": 0.0594,
+        "percentile sum": 82138,
+        "cumulative sum": 39770808
+    },
+    {
+        "threshold": 0.0595,
+        "percentile sum": 81901,
+        "cumulative sum": 39688670
+    },
+    {
+        "threshold": 0.0596,
+        "percentile sum": 81581,
+        "cumulative sum": 39606769
+    },
+    {
+        "threshold": 0.0597,
+        "percentile sum": 81875,
+        "cumulative sum": 39525188
+    },
+    {
+        "threshold": 0.0598,
+        "percentile sum": 82013,
+        "cumulative sum": 39443313
+    },
+    {
+        "threshold": 0.0599,
+        "percentile sum": 81041,
+        "cumulative sum": 39361300
+    },
+    {
+        "threshold": 0.06,
+        "percentile sum": 81694,
+        "cumulative sum": 39280259
+    },
+    {
+        "threshold": 0.0601,
+        "percentile sum": 81064,
+        "cumulative sum": 39198565
+    },
+    {
+        "threshold": 0.0602,
+        "percentile sum": 80458,
+        "cumulative sum": 39117501
+    },
+    {
+        "threshold": 0.0603,
+        "percentile sum": 80640,
+        "cumulative sum": 39037043
+    },
+    {
+        "threshold": 0.0604,
+        "percentile sum": 81366,
+        "cumulative sum": 38956403
+    },
+    {
+        "threshold": 0.0605,
+        "percentile sum": 80430,
+        "cumulative sum": 38875037
+    },
+    {
+        "threshold": 0.0606,
+        "percentile sum": 80214,
+        "cumulative sum": 38794607
+    },
+    {
+        "threshold": 0.0607,
+        "percentile sum": 80694,
+        "cumulative sum": 38714393
+    },
+    {
+        "threshold": 0.0608,
+        "percentile sum": 80935,
+        "cumulative sum": 38633699
+    },
+    {
+        "threshold": 0.0609,
+        "percentile sum": 79796,
+        "cumulative sum": 38552764
+    },
+    {
+        "threshold": 0.061,
+        "percentile sum": 80106,
+        "cumulative sum": 38472968
+    },
+    {
+        "threshold": 0.0611,
+        "percentile sum": 79000,
+        "cumulative sum": 38392862
+    },
+    {
+        "threshold": 0.0612,
+        "percentile sum": 79647,
+        "cumulative sum": 38313862
+    },
+    {
+        "threshold": 0.0613,
+        "percentile sum": 78318,
+        "cumulative sum": 38234215
+    },
+    {
+        "threshold": 0.0614,
+        "percentile sum": 79404,
+        "cumulative sum": 38155897
+    },
+    {
+        "threshold": 0.0615,
+        "percentile sum": 79025,
+        "cumulative sum": 38076493
+    },
+    {
+        "threshold": 0.0616,
+        "percentile sum": 78847,
+        "cumulative sum": 37997468
+    },
+    {
+        "threshold": 0.0617,
+        "percentile sum": 79109,
+        "cumulative sum": 37918621
+    },
+    {
+        "threshold": 0.0618,
+        "percentile sum": 77827,
+        "cumulative sum": 37839512
+    },
+    {
+        "threshold": 0.0619,
+        "percentile sum": 79043,
+        "cumulative sum": 37761685
+    },
+    {
+        "threshold": 0.062,
+        "percentile sum": 78224,
+        "cumulative sum": 37682642
+    },
+    {
+        "threshold": 0.0621,
+        "percentile sum": 79324,
+        "cumulative sum": 37604418
+    },
+    {
+        "threshold": 0.0622,
+        "percentile sum": 78205,
+        "cumulative sum": 37525094
+    },
+    {
+        "threshold": 0.0623,
+        "percentile sum": 78925,
+        "cumulative sum": 37446889
+    },
+    {
+        "threshold": 0.0624,
+        "percentile sum": 78093,
+        "cumulative sum": 37367964
+    },
+    {
+        "threshold": 0.0625,
+        "percentile sum": 77130,
+        "cumulative sum": 37289871
+    },
+    {
+        "threshold": 0.0626,
+        "percentile sum": 78059,
+        "cumulative sum": 37212741
+    },
+    {
+        "threshold": 0.0627,
+        "percentile sum": 77204,
+        "cumulative sum": 37134682
+    },
+    {
+        "threshold": 0.0628,
+        "percentile sum": 77581,
+        "cumulative sum": 37057478
+    },
+    {
+        "threshold": 0.0629,
+        "percentile sum": 77507,
+        "cumulative sum": 36979897
+    },
+    {
+        "threshold": 0.063,
+        "percentile sum": 76721,
+        "cumulative sum": 36902390
+    },
+    {
+        "threshold": 0.0631,
+        "percentile sum": 76657,
+        "cumulative sum": 36825669
+    },
+    {
+        "threshold": 0.0632,
+        "percentile sum": 76799,
+        "cumulative sum": 36749012
+    },
+    {
+        "threshold": 0.0633,
+        "percentile sum": 76503,
+        "cumulative sum": 36672213
+    },
+    {
+        "threshold": 0.0634,
+        "percentile sum": 76739,
+        "cumulative sum": 36595710
+    },
+    {
+        "threshold": 0.0635,
+        "percentile sum": 76256,
+        "cumulative sum": 36518971
+    },
+    {
+        "threshold": 0.0636,
+        "percentile sum": 76387,
+        "cumulative sum": 36442715
+    },
+    {
+        "threshold": 0.0637,
+        "percentile sum": 75412,
+        "cumulative sum": 36366328
+    },
+    {
+        "threshold": 0.0638,
+        "percentile sum": 76446,
+        "cumulative sum": 36290916
+    },
+    {
+        "threshold": 0.0639,
+        "percentile sum": 75316,
+        "cumulative sum": 36214470
+    },
+    {
+        "threshold": 0.064,
+        "percentile sum": 74651,
+        "cumulative sum": 36139154
+    },
+    {
+        "threshold": 0.0641,
+        "percentile sum": 75691,
+        "cumulative sum": 36064503
+    },
+    {
+        "threshold": 0.0642,
+        "percentile sum": 75109,
+        "cumulative sum": 35988812
+    },
+    {
+        "threshold": 0.0643,
+        "percentile sum": 76041,
+        "cumulative sum": 35913703
+    },
+    {
+        "threshold": 0.0644,
+        "percentile sum": 74845,
+        "cumulative sum": 35837662
+    },
+    {
+        "threshold": 0.0645,
+        "percentile sum": 74880,
+        "cumulative sum": 35762817
+    },
+    {
+        "threshold": 0.0646,
+        "percentile sum": 74456,
+        "cumulative sum": 35687937
+    },
+    {
+        "threshold": 0.0647,
+        "percentile sum": 74245,
+        "cumulative sum": 35613481
+    },
+    {
+        "threshold": 0.0648,
+        "percentile sum": 75390,
+        "cumulative sum": 35539236
+    },
+    {
+        "threshold": 0.0649,
+        "percentile sum": 74071,
+        "cumulative sum": 35463846
+    },
+    {
+        "threshold": 0.065,
+        "percentile sum": 74404,
+        "cumulative sum": 35389775
+    },
+    {
+        "threshold": 0.0651,
+        "percentile sum": 74948,
+        "cumulative sum": 35315371
+    },
+    {
+        "threshold": 0.0652,
+        "percentile sum": 74684,
+        "cumulative sum": 35240423
+    },
+    {
+        "threshold": 0.0653,
+        "percentile sum": 74088,
+        "cumulative sum": 35165739
+    },
+    {
+        "threshold": 0.0654,
+        "percentile sum": 74160,
+        "cumulative sum": 35091651
+    },
+    {
+        "threshold": 0.0655,
+        "percentile sum": 74027,
+        "cumulative sum": 35017491
+    },
+    {
+        "threshold": 0.0656,
+        "percentile sum": 74012,
+        "cumulative sum": 34943464
+    },
+    {
+        "threshold": 0.0657,
+        "percentile sum": 74107,
+        "cumulative sum": 34869452
+    },
+    {
+        "threshold": 0.0658,
+        "percentile sum": 73482,
+        "cumulative sum": 34795345
+    },
+    {
+        "threshold": 0.0659,
+        "percentile sum": 73205,
+        "cumulative sum": 34721863
+    },
+    {
+        "threshold": 0.066,
+        "percentile sum": 73143,
+        "cumulative sum": 34648658
+    },
+    {
+        "threshold": 0.0661,
+        "percentile sum": 73282,
+        "cumulative sum": 34575515
+    },
+    {
+        "threshold": 0.0662,
+        "percentile sum": 72536,
+        "cumulative sum": 34502233
+    },
+    {
+        "threshold": 0.0663,
+        "percentile sum": 72400,
+        "cumulative sum": 34429697
+    },
+    {
+        "threshold": 0.0664,
+        "percentile sum": 72855,
+        "cumulative sum": 34357297
+    },
+    {
+        "threshold": 0.0665,
+        "percentile sum": 72694,
+        "cumulative sum": 34284442
+    },
+    {
+        "threshold": 0.0666,
+        "percentile sum": 72515,
+        "cumulative sum": 34211748
+    },
+    {
+        "threshold": 0.0667,
+        "percentile sum": 72721,
+        "cumulative sum": 34139233
+    },
+    {
+        "threshold": 0.0668,
+        "percentile sum": 72906,
+        "cumulative sum": 34066512
+    },
+    {
+        "threshold": 0.0669,
+        "percentile sum": 71370,
+        "cumulative sum": 33993606
+    },
+    {
+        "threshold": 0.067,
+        "percentile sum": 71524,
+        "cumulative sum": 33922236
+    },
+    {
+        "threshold": 0.0671,
+        "percentile sum": 71627,
+        "cumulative sum": 33850712
+    },
+    {
+        "threshold": 0.0672,
+        "percentile sum": 71432,
+        "cumulative sum": 33779085
+    },
+    {
+        "threshold": 0.0673,
+        "percentile sum": 70998,
+        "cumulative sum": 33707653
+    },
+    {
+        "threshold": 0.0674,
+        "percentile sum": 70965,
+        "cumulative sum": 33636655
+    },
+    {
+        "threshold": 0.0675,
+        "percentile sum": 71131,
+        "cumulative sum": 33565690
+    },
+    {
+        "threshold": 0.0676,
+        "percentile sum": 71280,
+        "cumulative sum": 33494559
+    },
+    {
+        "threshold": 0.0677,
+        "percentile sum": 70527,
+        "cumulative sum": 33423279
+    },
+    {
+        "threshold": 0.0678,
+        "percentile sum": 70231,
+        "cumulative sum": 33352752
+    },
+    {
+        "threshold": 0.0679,
+        "percentile sum": 69864,
+        "cumulative sum": 33282521
+    },
+    {
+        "threshold": 0.068,
+        "percentile sum": 70411,
+        "cumulative sum": 33212657
+    },
+    {
+        "threshold": 0.0681,
+        "percentile sum": 70238,
+        "cumulative sum": 33142246
+    },
+    {
+        "threshold": 0.0682,
+        "percentile sum": 70203,
+        "cumulative sum": 33072008
+    },
+    {
+        "threshold": 0.0683,
+        "percentile sum": 70575,
+        "cumulative sum": 33001805
+    },
+    {
+        "threshold": 0.0684,
+        "percentile sum": 69371,
+        "cumulative sum": 32931230
+    },
+    {
+        "threshold": 0.0685,
+        "percentile sum": 70470,
+        "cumulative sum": 32861859
+    },
+    {
+        "threshold": 0.0686,
+        "percentile sum": 69557,
+        "cumulative sum": 32791389
+    },
+    {
+        "threshold": 0.0687,
+        "percentile sum": 69938,
+        "cumulative sum": 32721832
+    },
+    {
+        "threshold": 0.0688,
+        "percentile sum": 69543,
+        "cumulative sum": 32651894
+    },
+    {
+        "threshold": 0.0689,
+        "percentile sum": 69423,
+        "cumulative sum": 32582351
+    },
+    {
+        "threshold": 0.069,
+        "percentile sum": 69252,
+        "cumulative sum": 32512928
+    },
+    {
+        "threshold": 0.0691,
+        "percentile sum": 68876,
+        "cumulative sum": 32443676
+    },
+    {
+        "threshold": 0.0692,
+        "percentile sum": 68495,
+        "cumulative sum": 32374800
+    },
+    {
+        "threshold": 0.0693,
+        "percentile sum": 68967,
+        "cumulative sum": 32306305
+    },
+    {
+        "threshold": 0.0694,
+        "percentile sum": 69232,
+        "cumulative sum": 32237338
+    },
+    {
+        "threshold": 0.0695,
+        "percentile sum": 68378,
+        "cumulative sum": 32168106
+    },
+    {
+        "threshold": 0.0696,
+        "percentile sum": 68050,
+        "cumulative sum": 32099728
+    },
+    {
+        "threshold": 0.0697,
+        "percentile sum": 68935,
+        "cumulative sum": 32031678
+    },
+    {
+        "threshold": 0.0698,
+        "percentile sum": 68384,
+        "cumulative sum": 31962743
+    },
+    {
+        "threshold": 0.0699,
+        "percentile sum": 68308,
+        "cumulative sum": 31894359
+    },
+    {
+        "threshold": 0.07,
+        "percentile sum": 68065,
+        "cumulative sum": 31826051
+    },
+    {
+        "threshold": 0.0701,
+        "percentile sum": 67553,
+        "cumulative sum": 31757986
+    },
+    {
+        "threshold": 0.0702,
+        "percentile sum": 67849,
+        "cumulative sum": 31690433
+    },
+    {
+        "threshold": 0.0703,
+        "percentile sum": 67846,
+        "cumulative sum": 31622584
+    },
+    {
+        "threshold": 0.0704,
+        "percentile sum": 67191,
+        "cumulative sum": 31554738
+    },
+    {
+        "threshold": 0.0705,
+        "percentile sum": 67954,
+        "cumulative sum": 31487547
+    },
+    {
+        "threshold": 0.0706,
+        "percentile sum": 66771,
+        "cumulative sum": 31419593
+    },
+    {
+        "threshold": 0.0707,
+        "percentile sum": 67000,
+        "cumulative sum": 31352822
+    },
+    {
+        "threshold": 0.0708,
+        "percentile sum": 67015,
+        "cumulative sum": 31285822
+    },
+    {
+        "threshold": 0.0709,
+        "percentile sum": 66772,
+        "cumulative sum": 31218807
+    },
+    {
+        "threshold": 0.071,
+        "percentile sum": 65590,
+        "cumulative sum": 31152035
+    },
+    {
+        "threshold": 0.0711,
+        "percentile sum": 66382,
+        "cumulative sum": 31086445
+    },
+    {
+        "threshold": 0.0712,
+        "percentile sum": 66119,
+        "cumulative sum": 31020063
+    },
+    {
+        "threshold": 0.0713,
+        "percentile sum": 66115,
+        "cumulative sum": 30953944
+    },
+    {
+        "threshold": 0.0714,
+        "percentile sum": 66960,
+        "cumulative sum": 30887829
+    },
+    {
+        "threshold": 0.0715,
+        "percentile sum": 66177,
+        "cumulative sum": 30820869
+    },
+    {
+        "threshold": 0.0716,
+        "percentile sum": 65656,
+        "cumulative sum": 30754692
+    },
+    {
+        "threshold": 0.0717,
+        "percentile sum": 66309,
+        "cumulative sum": 30689036
+    },
+    {
+        "threshold": 0.0718,
+        "percentile sum": 65079,
+        "cumulative sum": 30622727
+    },
+    {
+        "threshold": 0.0719,
+        "percentile sum": 65636,
+        "cumulative sum": 30557648
+    },
+    {
+        "threshold": 0.072,
+        "percentile sum": 66374,
+        "cumulative sum": 30492012
+    },
+    {
+        "threshold": 0.0721,
+        "percentile sum": 65611,
+        "cumulative sum": 30425638
+    },
+    {
+        "threshold": 0.0722,
+        "percentile sum": 66081,
+        "cumulative sum": 30360027
+    },
+    {
+        "threshold": 0.0723,
+        "percentile sum": 65428,
+        "cumulative sum": 30293946
+    },
+    {
+        "threshold": 0.0724,
+        "percentile sum": 65688,
+        "cumulative sum": 30228518
+    },
+    {
+        "threshold": 0.0725,
+        "percentile sum": 65417,
+        "cumulative sum": 30162830
+    },
+    {
+        "threshold": 0.0726,
+        "percentile sum": 64430,
+        "cumulative sum": 30097413
+    },
+    {
+        "threshold": 0.0727,
+        "percentile sum": 65102,
+        "cumulative sum": 30032983
+    },
+    {
+        "threshold": 0.0728,
+        "percentile sum": 65356,
+        "cumulative sum": 29967881
+    },
+    {
+        "threshold": 0.0729,
+        "percentile sum": 64195,
+        "cumulative sum": 29902525
+    },
+    {
+        "threshold": 0.073,
+        "percentile sum": 64710,
+        "cumulative sum": 29838330
+    },
+    {
+        "threshold": 0.0731,
+        "percentile sum": 64631,
+        "cumulative sum": 29773620
+    },
+    {
+        "threshold": 0.0732,
+        "percentile sum": 64523,
+        "cumulative sum": 29708989
+    },
+    {
+        "threshold": 0.0733,
+        "percentile sum": 63251,
+        "cumulative sum": 29644466
+    },
+    {
+        "threshold": 0.0734,
+        "percentile sum": 63552,
+        "cumulative sum": 29581215
+    },
+    {
+        "threshold": 0.0735,
+        "percentile sum": 63149,
+        "cumulative sum": 29517663
+    },
+    {
+        "threshold": 0.0736,
+        "percentile sum": 64185,
+        "cumulative sum": 29454514
+    },
+    {
+        "threshold": 0.0737,
+        "percentile sum": 64245,
+        "cumulative sum": 29390329
+    },
+    {
+        "threshold": 0.0738,
+        "percentile sum": 63668,
+        "cumulative sum": 29326084
+    },
+    {
+        "threshold": 0.0739,
+        "percentile sum": 63157,
+        "cumulative sum": 29262416
+    },
+    {
+        "threshold": 0.074,
+        "percentile sum": 63468,
+        "cumulative sum": 29199259
+    },
+    {
+        "threshold": 0.0741,
+        "percentile sum": 63611,
+        "cumulative sum": 29135791
+    },
+    {
+        "threshold": 0.0742,
+        "percentile sum": 62924,
+        "cumulative sum": 29072180
+    },
+    {
+        "threshold": 0.0743,
+        "percentile sum": 62757,
+        "cumulative sum": 29009256
+    },
+    {
+        "threshold": 0.0744,
+        "percentile sum": 62549,
+        "cumulative sum": 28946499
+    },
+    {
+        "threshold": 0.0745,
+        "percentile sum": 62262,
+        "cumulative sum": 28883950
+    },
+    {
+        "threshold": 0.0746,
+        "percentile sum": 62954,
+        "cumulative sum": 28821688
+    },
+    {
+        "threshold": 0.0747,
+        "percentile sum": 62232,
+        "cumulative sum": 28758734
+    },
+    {
+        "threshold": 0.0748,
+        "percentile sum": 62258,
+        "cumulative sum": 28696502
+    },
+    {
+        "threshold": 0.0749,
+        "percentile sum": 61979,
+        "cumulative sum": 28634244
+    },
+    {
+        "threshold": 0.075,
+        "percentile sum": 62307,
+        "cumulative sum": 28572265
+    },
+    {
+        "threshold": 0.0751,
+        "percentile sum": 61414,
+        "cumulative sum": 28509958
+    },
+    {
+        "threshold": 0.0752,
+        "percentile sum": 61239,
+        "cumulative sum": 28448544
+    },
+    {
+        "threshold": 0.0753,
+        "percentile sum": 61876,
+        "cumulative sum": 28387305
+    },
+    {
+        "threshold": 0.0754,
+        "percentile sum": 61238,
+        "cumulative sum": 28325429
+    },
+    {
+        "threshold": 0.0755,
+        "percentile sum": 61154,
+        "cumulative sum": 28264191
+    },
+    {
+        "threshold": 0.0756,
+        "percentile sum": 61028,
+        "cumulative sum": 28203037
+    },
+    {
+        "threshold": 0.0757,
+        "percentile sum": 60311,
+        "cumulative sum": 28142009
+    },
+    {
+        "threshold": 0.0758,
+        "percentile sum": 61724,
+        "cumulative sum": 28081698
+    },
+    {
+        "threshold": 0.0759,
+        "percentile sum": 61368,
+        "cumulative sum": 28019974
+    },
+    {
+        "threshold": 0.076,
+        "percentile sum": 60981,
+        "cumulative sum": 27958606
+    },
+    {
+        "threshold": 0.0761,
+        "percentile sum": 60609,
+        "cumulative sum": 27897625
+    },
+    {
+        "threshold": 0.0762,
+        "percentile sum": 60706,
+        "cumulative sum": 27837016
+    },
+    {
+        "threshold": 0.0763,
+        "percentile sum": 60361,
+        "cumulative sum": 27776310
+    },
+    {
+        "threshold": 0.0764,
+        "percentile sum": 60650,
+        "cumulative sum": 27715949
+    },
+    {
+        "threshold": 0.0765,
+        "percentile sum": 60739,
+        "cumulative sum": 27655299
+    },
+    {
+        "threshold": 0.0766,
+        "percentile sum": 60840,
+        "cumulative sum": 27594560
+    },
+    {
+        "threshold": 0.0767,
+        "percentile sum": 60593,
+        "cumulative sum": 27533720
+    },
+    {
+        "threshold": 0.0768,
+        "percentile sum": 59260,
+        "cumulative sum": 27473127
+    },
+    {
+        "threshold": 0.0769,
+        "percentile sum": 60418,
+        "cumulative sum": 27413867
+    },
+    {
+        "threshold": 0.077,
+        "percentile sum": 60323,
+        "cumulative sum": 27353449
+    },
+    {
+        "threshold": 0.0771,
+        "percentile sum": 59405,
+        "cumulative sum": 27293126
+    },
+    {
+        "threshold": 0.0772,
+        "percentile sum": 59910,
+        "cumulative sum": 27233721
+    },
+    {
+        "threshold": 0.0773,
+        "percentile sum": 58845,
+        "cumulative sum": 27173811
+    },
+    {
+        "threshold": 0.0774,
+        "percentile sum": 59535,
+        "cumulative sum": 27114966
+    },
+    {
+        "threshold": 0.0775,
+        "percentile sum": 59560,
+        "cumulative sum": 27055431
+    },
+    {
+        "threshold": 0.0776,
+        "percentile sum": 59497,
+        "cumulative sum": 26995871
+    },
+    {
+        "threshold": 0.0777,
+        "percentile sum": 58240,
+        "cumulative sum": 26936374
+    },
+    {
+        "threshold": 0.0778,
+        "percentile sum": 58968,
+        "cumulative sum": 26878134
+    },
+    {
+        "threshold": 0.0779,
+        "percentile sum": 58528,
+        "cumulative sum": 26819166
+    },
+    {
+        "threshold": 0.078,
+        "percentile sum": 58348,
+        "cumulative sum": 26760638
+    },
+    {
+        "threshold": 0.0781,
+        "percentile sum": 59078,
+        "cumulative sum": 26702290
+    },
+    {
+        "threshold": 0.0782,
+        "percentile sum": 57816,
+        "cumulative sum": 26643212
+    },
+    {
+        "threshold": 0.0783,
+        "percentile sum": 58509,
+        "cumulative sum": 26585396
+    },
+    {
+        "threshold": 0.0784,
+        "percentile sum": 58396,
+        "cumulative sum": 26526887
+    },
+    {
+        "threshold": 0.0785,
+        "percentile sum": 57513,
+        "cumulative sum": 26468491
+    },
+    {
+        "threshold": 0.0786,
+        "percentile sum": 58034,
+        "cumulative sum": 26410978
+    },
+    {
+        "threshold": 0.0787,
+        "percentile sum": 58195,
+        "cumulative sum": 26352944
+    },
+    {
+        "threshold": 0.0788,
+        "percentile sum": 58076,
+        "cumulative sum": 26294749
+    },
+    {
+        "threshold": 0.0789,
+        "percentile sum": 56868,
+        "cumulative sum": 26236673
+    },
+    {
+        "threshold": 0.079,
+        "percentile sum": 57766,
+        "cumulative sum": 26179805
+    },
+    {
+        "threshold": 0.0791,
+        "percentile sum": 57866,
+        "cumulative sum": 26122039
+    },
+    {
+        "threshold": 0.0792,
+        "percentile sum": 57204,
+        "cumulative sum": 26064173
+    },
+    {
+        "threshold": 0.0793,
+        "percentile sum": 56668,
+        "cumulative sum": 26006969
+    },
+    {
+        "threshold": 0.0794,
+        "percentile sum": 56438,
+        "cumulative sum": 25950301
+    },
+    {
+        "threshold": 0.0795,
+        "percentile sum": 56854,
+        "cumulative sum": 25893863
+    },
+    {
+        "threshold": 0.0796,
+        "percentile sum": 57134,
+        "cumulative sum": 25837009
+    },
+    {
+        "threshold": 0.0797,
+        "percentile sum": 57645,
+        "cumulative sum": 25779875
+    },
+    {
+        "threshold": 0.0798,
+        "percentile sum": 55907,
+        "cumulative sum": 25722230
+    },
+    {
+        "threshold": 0.0799,
+        "percentile sum": 57110,
+        "cumulative sum": 25666323
+    },
+    {
+        "threshold": 0.08,
+        "percentile sum": 56166,
+        "cumulative sum": 25609213
+    },
+    {
+        "threshold": 0.0801,
+        "percentile sum": 56299,
+        "cumulative sum": 25553047
+    },
+    {
+        "threshold": 0.0802,
+        "percentile sum": 56612,
+        "cumulative sum": 25496748
+    },
+    {
+        "threshold": 0.0803,
+        "percentile sum": 54935,
+        "cumulative sum": 25440136
+    },
+    {
+        "threshold": 0.0804,
+        "percentile sum": 56208,
+        "cumulative sum": 25385201
+    },
+    {
+        "threshold": 0.0805,
+        "percentile sum": 56109,
+        "cumulative sum": 25328993
+    },
+    {
+        "threshold": 0.0806,
+        "percentile sum": 56045,
+        "cumulative sum": 25272884
+    },
+    {
+        "threshold": 0.0807,
+        "percentile sum": 55530,
+        "cumulative sum": 25216839
+    },
+    {
+        "threshold": 0.0808,
+        "percentile sum": 55208,
+        "cumulative sum": 25161309
+    },
+    {
+        "threshold": 0.0809,
+        "percentile sum": 55212,
+        "cumulative sum": 25106101
+    },
+    {
+        "threshold": 0.081,
+        "percentile sum": 55529,
+        "cumulative sum": 25050889
+    },
+    {
+        "threshold": 0.0811,
+        "percentile sum": 55261,
+        "cumulative sum": 24995360
+    },
+    {
+        "threshold": 0.0812,
+        "percentile sum": 54916,
+        "cumulative sum": 24940099
+    },
+    {
+        "threshold": 0.0813,
+        "percentile sum": 55285,
+        "cumulative sum": 24885183
+    },
+    {
+        "threshold": 0.0814,
+        "percentile sum": 55338,
+        "cumulative sum": 24829898
+    },
+    {
+        "threshold": 0.0815,
+        "percentile sum": 54696,
+        "cumulative sum": 24774560
+    },
+    {
+        "threshold": 0.0816,
+        "percentile sum": 54098,
+        "cumulative sum": 24719864
+    },
+    {
+        "threshold": 0.0817,
+        "percentile sum": 54361,
+        "cumulative sum": 24665766
+    },
+    {
+        "threshold": 0.0818,
+        "percentile sum": 54597,
+        "cumulative sum": 24611405
+    },
+    {
+        "threshold": 0.0819,
+        "percentile sum": 54401,
+        "cumulative sum": 24556808
+    },
+    {
+        "threshold": 0.082,
+        "percentile sum": 54245,
+        "cumulative sum": 24502407
+    },
+    {
+        "threshold": 0.0821,
+        "percentile sum": 54040,
+        "cumulative sum": 24448162
+    },
+    {
+        "threshold": 0.0822,
+        "percentile sum": 53618,
+        "cumulative sum": 24394122
+    },
+    {
+        "threshold": 0.0823,
+        "percentile sum": 53881,
+        "cumulative sum": 24340504
+    },
+    {
+        "threshold": 0.0824,
+        "percentile sum": 53315,
+        "cumulative sum": 24286623
+    },
+    {
+        "threshold": 0.0825,
+        "percentile sum": 53340,
+        "cumulative sum": 24233308
+    },
+    {
+        "threshold": 0.0826,
+        "percentile sum": 53345,
+        "cumulative sum": 24179968
+    },
+    {
+        "threshold": 0.0827,
+        "percentile sum": 53503,
+        "cumulative sum": 24126623
+    },
+    {
+        "threshold": 0.0828,
+        "percentile sum": 53207,
+        "cumulative sum": 24073120
+    },
+    {
+        "threshold": 0.0829,
+        "percentile sum": 53204,
+        "cumulative sum": 24019913
+    },
+    {
+        "threshold": 0.083,
+        "percentile sum": 53348,
+        "cumulative sum": 23966709
+    },
+    {
+        "threshold": 0.0831,
+        "percentile sum": 53771,
+        "cumulative sum": 23913361
+    },
+    {
+        "threshold": 0.0832,
+        "percentile sum": 52936,
+        "cumulative sum": 23859590
+    },
+    {
+        "threshold": 0.0833,
+        "percentile sum": 53323,
+        "cumulative sum": 23806654
+    },
+    {
+        "threshold": 0.0834,
+        "percentile sum": 53251,
+        "cumulative sum": 23753331
+    },
+    {
+        "threshold": 0.0835,
+        "percentile sum": 52961,
+        "cumulative sum": 23700080
+    },
+    {
+        "threshold": 0.0836,
+        "percentile sum": 52718,
+        "cumulative sum": 23647119
+    },
+    {
+        "threshold": 0.0837,
+        "percentile sum": 52849,
+        "cumulative sum": 23594401
+    },
+    {
+        "threshold": 0.0838,
+        "percentile sum": 52395,
+        "cumulative sum": 23541552
+    },
+    {
+        "threshold": 0.0839,
+        "percentile sum": 52476,
+        "cumulative sum": 23489157
+    },
+    {
+        "threshold": 0.084,
+        "percentile sum": 52315,
+        "cumulative sum": 23436681
+    },
+    {
+        "threshold": 0.0841,
+        "percentile sum": 52840,
+        "cumulative sum": 23384366
+    },
+    {
+        "threshold": 0.0842,
+        "percentile sum": 52336,
+        "cumulative sum": 23331526
+    },
+    {
+        "threshold": 0.0843,
+        "percentile sum": 52544,
+        "cumulative sum": 23279190
+    },
+    {
+        "threshold": 0.0844,
+        "percentile sum": 51941,
+        "cumulative sum": 23226646
+    },
+    {
+        "threshold": 0.0845,
+        "percentile sum": 52022,
+        "cumulative sum": 23174705
+    },
+    {
+        "threshold": 0.0846,
+        "percentile sum": 51746,
+        "cumulative sum": 23122683
+    },
+    {
+        "threshold": 0.0847,
+        "percentile sum": 51421,
+        "cumulative sum": 23070937
+    },
+    {
+        "threshold": 0.0848,
+        "percentile sum": 51325,
+        "cumulative sum": 23019516
+    },
+    {
+        "threshold": 0.0849,
+        "percentile sum": 52135,
+        "cumulative sum": 22968191
+    },
+    {
+        "threshold": 0.085,
+        "percentile sum": 51448,
+        "cumulative sum": 22916056
+    },
+    {
+        "threshold": 0.0851,
+        "percentile sum": 50685,
+        "cumulative sum": 22864608
+    },
+    {
+        "threshold": 0.0852,
+        "percentile sum": 51137,
+        "cumulative sum": 22813923
+    },
+    {
+        "threshold": 0.0853,
+        "percentile sum": 50529,
+        "cumulative sum": 22762786
+    },
+    {
+        "threshold": 0.0854,
+        "percentile sum": 50878,
+        "cumulative sum": 22712257
+    },
+    {
+        "threshold": 0.0855,
+        "percentile sum": 50342,
+        "cumulative sum": 22661379
+    },
+    {
+        "threshold": 0.0856,
+        "percentile sum": 50688,
+        "cumulative sum": 22611037
+    },
+    {
+        "threshold": 0.0857,
+        "percentile sum": 50767,
+        "cumulative sum": 22560349
+    },
+    {
+        "threshold": 0.0858,
+        "percentile sum": 50576,
+        "cumulative sum": 22509582
+    },
+    {
+        "threshold": 0.0859,
+        "percentile sum": 50760,
+        "cumulative sum": 22459006
+    },
+    {
+        "threshold": 0.086,
+        "percentile sum": 50522,
+        "cumulative sum": 22408246
+    },
+    {
+        "threshold": 0.0861,
+        "percentile sum": 50078,
+        "cumulative sum": 22357724
+    },
+    {
+        "threshold": 0.0862,
+        "percentile sum": 50364,
+        "cumulative sum": 22307646
+    },
+    {
+        "threshold": 0.0863,
+        "percentile sum": 49158,
+        "cumulative sum": 22257282
+    },
+    {
+        "threshold": 0.0864,
+        "percentile sum": 49922,
+        "cumulative sum": 22208124
+    },
+    {
+        "threshold": 0.0865,
+        "percentile sum": 50454,
+        "cumulative sum": 22158202
+    },
+    {
+        "threshold": 0.0866,
+        "percentile sum": 49447,
+        "cumulative sum": 22107748
+    },
+    {
+        "threshold": 0.0867,
+        "percentile sum": 49491,
+        "cumulative sum": 22058301
+    },
+    {
+        "threshold": 0.0868,
+        "percentile sum": 49129,
+        "cumulative sum": 22008810
+    },
+    {
+        "threshold": 0.0869,
+        "percentile sum": 49574,
+        "cumulative sum": 21959681
+    },
+    {
+        "threshold": 0.087,
+        "percentile sum": 49638,
+        "cumulative sum": 21910107
+    },
+    {
+        "threshold": 0.0871,
+        "percentile sum": 49063,
+        "cumulative sum": 21860469
+    },
+    {
+        "threshold": 0.0872,
+        "percentile sum": 49085,
+        "cumulative sum": 21811406
+    },
+    {
+        "threshold": 0.0873,
+        "percentile sum": 48542,
+        "cumulative sum": 21762321
+    },
+    {
+        "threshold": 0.0874,
+        "percentile sum": 48490,
+        "cumulative sum": 21713779
+    },
+    {
+        "threshold": 0.0875,
+        "percentile sum": 48871,
+        "cumulative sum": 21665289
+    },
+    {
+        "threshold": 0.0876,
+        "percentile sum": 48630,
+        "cumulative sum": 21616418
+    },
+    {
+        "threshold": 0.0877,
+        "percentile sum": 47635,
+        "cumulative sum": 21567788
+    },
+    {
+        "threshold": 0.0878,
+        "percentile sum": 48488,
+        "cumulative sum": 21520153
+    },
+    {
+        "threshold": 0.0879,
+        "percentile sum": 48456,
+        "cumulative sum": 21471665
+    },
+    {
+        "threshold": 0.088,
+        "percentile sum": 48740,
+        "cumulative sum": 21423209
+    },
+    {
+        "threshold": 0.0881,
+        "percentile sum": 48038,
+        "cumulative sum": 21374469
+    },
+    {
+        "threshold": 0.0882,
+        "percentile sum": 48504,
+        "cumulative sum": 21326431
+    },
+    {
+        "threshold": 0.0883,
+        "percentile sum": 47886,
+        "cumulative sum": 21277927
+    },
+    {
+        "threshold": 0.0884,
+        "percentile sum": 47870,
+        "cumulative sum": 21230041
+    },
+    {
+        "threshold": 0.0885,
+        "percentile sum": 48196,
+        "cumulative sum": 21182171
+    },
+    {
+        "threshold": 0.0886,
+        "percentile sum": 48153,
+        "cumulative sum": 21133975
+    },
+    {
+        "threshold": 0.0887,
+        "percentile sum": 47994,
+        "cumulative sum": 21085822
+    },
+    {
+        "threshold": 0.0888,
+        "percentile sum": 47334,
+        "cumulative sum": 21037828
+    },
+    {
+        "threshold": 0.0889,
+        "percentile sum": 47142,
+        "cumulative sum": 20990494
+    },
+    {
+        "threshold": 0.089,
+        "percentile sum": 46909,
+        "cumulative sum": 20943352
+    },
+    {
+        "threshold": 0.0891,
+        "percentile sum": 47183,
+        "cumulative sum": 20896443
+    },
+    {
+        "threshold": 0.0892,
+        "percentile sum": 46503,
+        "cumulative sum": 20849260
+    },
+    {
+        "threshold": 0.0893,
+        "percentile sum": 46858,
+        "cumulative sum": 20802757
+    },
+    {
+        "threshold": 0.0894,
+        "percentile sum": 45955,
+        "cumulative sum": 20755899
+    },
+    {
+        "threshold": 0.0895,
+        "percentile sum": 46513,
+        "cumulative sum": 20709944
+    },
+    {
+        "threshold": 0.0896,
+        "percentile sum": 47352,
+        "cumulative sum": 20663431
+    },
+    {
+        "threshold": 0.0897,
+        "percentile sum": 46325,
+        "cumulative sum": 20616079
+    },
+    {
+        "threshold": 0.0898,
+        "percentile sum": 47105,
+        "cumulative sum": 20569754
+    },
+    {
+        "threshold": 0.0899,
+        "percentile sum": 46637,
+        "cumulative sum": 20522649
+    },
+    {
+        "threshold": 0.09,
+        "percentile sum": 46213,
+        "cumulative sum": 20476012
+    },
+    {
+        "threshold": 0.0901,
+        "percentile sum": 46297,
+        "cumulative sum": 20429799
+    },
+    {
+        "threshold": 0.0902,
+        "percentile sum": 46549,
+        "cumulative sum": 20383502
+    },
+    {
+        "threshold": 0.0903,
+        "percentile sum": 46302,
+        "cumulative sum": 20336953
+    },
+    {
+        "threshold": 0.0904,
+        "percentile sum": 45336,
+        "cumulative sum": 20290651
+    },
+    {
+        "threshold": 0.0905,
+        "percentile sum": 45643,
+        "cumulative sum": 20245315
+    },
+    {
+        "threshold": 0.0906,
+        "percentile sum": 45498,
+        "cumulative sum": 20199672
+    },
+    {
+        "threshold": 0.0907,
+        "percentile sum": 45648,
+        "cumulative sum": 20154174
+    },
+    {
+        "threshold": 0.0908,
+        "percentile sum": 45419,
+        "cumulative sum": 20108526
+    },
+    {
+        "threshold": 0.0909,
+        "percentile sum": 45188,
+        "cumulative sum": 20063107
+    },
+    {
+        "threshold": 0.091,
+        "percentile sum": 45670,
+        "cumulative sum": 20017919
+    },
+    {
+        "threshold": 0.0911,
+        "percentile sum": 45266,
+        "cumulative sum": 19972249
+    },
+    {
+        "threshold": 0.0912,
+        "percentile sum": 44613,
+        "cumulative sum": 19926983
+    },
+    {
+        "threshold": 0.0913,
+        "percentile sum": 45101,
+        "cumulative sum": 19882370
+    },
+    {
+        "threshold": 0.0914,
+        "percentile sum": 45185,
+        "cumulative sum": 19837269
+    },
+    {
+        "threshold": 0.0915,
+        "percentile sum": 45415,
+        "cumulative sum": 19792084
+    },
+    {
+        "threshold": 0.0916,
+        "percentile sum": 44120,
+        "cumulative sum": 19746669
+    },
+    {
+        "threshold": 0.0917,
+        "percentile sum": 44062,
+        "cumulative sum": 19702549
+    },
+    {
+        "threshold": 0.0918,
+        "percentile sum": 44294,
+        "cumulative sum": 19658487
+    },
+    {
+        "threshold": 0.0919,
+        "percentile sum": 44447,
+        "cumulative sum": 19614193
+    },
+    {
+        "threshold": 0.092,
+        "percentile sum": 44675,
+        "cumulative sum": 19569746
+    },
+    {
+        "threshold": 0.0921,
+        "percentile sum": 44336,
+        "cumulative sum": 19525071
+    },
+    {
+        "threshold": 0.0922,
+        "percentile sum": 45086,
+        "cumulative sum": 19480735
+    },
+    {
+        "threshold": 0.0923,
+        "percentile sum": 43910,
+        "cumulative sum": 19435649
+    },
+    {
+        "threshold": 0.0924,
+        "percentile sum": 44568,
+        "cumulative sum": 19391739
+    },
+    {
+        "threshold": 0.0925,
+        "percentile sum": 44060,
+        "cumulative sum": 19347171
+    },
+    {
+        "threshold": 0.0926,
+        "percentile sum": 43814,
+        "cumulative sum": 19303111
+    },
+    {
+        "threshold": 0.0927,
+        "percentile sum": 43896,
+        "cumulative sum": 19259297
+    },
+    {
+        "threshold": 0.0928,
+        "percentile sum": 44508,
+        "cumulative sum": 19215401
+    },
+    {
+        "threshold": 0.0929,
+        "percentile sum": 43769,
+        "cumulative sum": 19170893
+    },
+    {
+        "threshold": 0.093,
+        "percentile sum": 43360,
+        "cumulative sum": 19127124
+    },
+    {
+        "threshold": 0.0931,
+        "percentile sum": 42824,
+        "cumulative sum": 19083764
+    },
+    {
+        "threshold": 0.0932,
+        "percentile sum": 43622,
+        "cumulative sum": 19040940
+    },
+    {
+        "threshold": 0.0933,
+        "percentile sum": 42938,
+        "cumulative sum": 18997318
+    },
+    {
+        "threshold": 0.0934,
+        "percentile sum": 43196,
+        "cumulative sum": 18954380
+    },
+    {
+        "threshold": 0.0935,
+        "percentile sum": 43094,
+        "cumulative sum": 18911184
+    },
+    {
+        "threshold": 0.0936,
+        "percentile sum": 43115,
+        "cumulative sum": 18868090
+    },
+    {
+        "threshold": 0.0937,
+        "percentile sum": 42814,
+        "cumulative sum": 18824975
+    },
+    {
+        "threshold": 0.0938,
+        "percentile sum": 42411,
+        "cumulative sum": 18782161
+    },
+    {
+        "threshold": 0.0939,
+        "percentile sum": 42049,
+        "cumulative sum": 18739750
+    },
+    {
+        "threshold": 0.094,
+        "percentile sum": 42508,
+        "cumulative sum": 18697701
+    },
+    {
+        "threshold": 0.0941,
+        "percentile sum": 42656,
+        "cumulative sum": 18655193
+    },
+    {
+        "threshold": 0.0942,
+        "percentile sum": 42301,
+        "cumulative sum": 18612537
+    },
+    {
+        "threshold": 0.0943,
+        "percentile sum": 41943,
+        "cumulative sum": 18570236
+    },
+    {
+        "threshold": 0.0944,
+        "percentile sum": 42523,
+        "cumulative sum": 18528293
+    },
+    {
+        "threshold": 0.0945,
+        "percentile sum": 42047,
+        "cumulative sum": 18485770
+    },
+    {
+        "threshold": 0.0946,
+        "percentile sum": 42405,
+        "cumulative sum": 18443723
+    },
+    {
+        "threshold": 0.0947,
+        "percentile sum": 42235,
+        "cumulative sum": 18401318
+    },
+    {
+        "threshold": 0.0948,
+        "percentile sum": 42195,
+        "cumulative sum": 18359083
+    },
+    {
+        "threshold": 0.0949,
+        "percentile sum": 41701,
+        "cumulative sum": 18316888
+    },
+    {
+        "threshold": 0.095,
+        "percentile sum": 41246,
+        "cumulative sum": 18275187
+    },
+    {
+        "threshold": 0.0951,
+        "percentile sum": 41775,
+        "cumulative sum": 18233941
+    },
+    {
+        "threshold": 0.0952,
+        "percentile sum": 41557,
+        "cumulative sum": 18192166
+    },
+    {
+        "threshold": 0.0953,
+        "percentile sum": 41307,
+        "cumulative sum": 18150609
+    },
+    {
+        "threshold": 0.0954,
+        "percentile sum": 41344,
+        "cumulative sum": 18109302
+    },
+    {
+        "threshold": 0.0955,
+        "percentile sum": 40980,
+        "cumulative sum": 18067958
+    },
+    {
+        "threshold": 0.0956,
+        "percentile sum": 41418,
+        "cumulative sum": 18026978
+    },
+    {
+        "threshold": 0.0957,
+        "percentile sum": 41242,
+        "cumulative sum": 17985560
+    },
+    {
+        "threshold": 0.0958,
+        "percentile sum": 41483,
+        "cumulative sum": 17944318
+    },
+    {
+        "threshold": 0.0959,
+        "percentile sum": 41060,
+        "cumulative sum": 17902835
+    },
+    {
+        "threshold": 0.096,
+        "percentile sum": 41144,
+        "cumulative sum": 17861775
+    },
+    {
+        "threshold": 0.0961,
+        "percentile sum": 40184,
+        "cumulative sum": 17820631
+    },
+    {
+        "threshold": 0.0962,
+        "percentile sum": 40848,
+        "cumulative sum": 17780447
+    },
+    {
+        "threshold": 0.0963,
+        "percentile sum": 40474,
+        "cumulative sum": 17739599
+    },
+    {
+        "threshold": 0.0964,
+        "percentile sum": 40653,
+        "cumulative sum": 17699125
+    },
+    {
+        "threshold": 0.0965,
+        "percentile sum": 40246,
+        "cumulative sum": 17658472
+    },
+    {
+        "threshold": 0.0966,
+        "percentile sum": 40628,
+        "cumulative sum": 17618226
+    },
+    {
+        "threshold": 0.0967,
+        "percentile sum": 40256,
+        "cumulative sum": 17577598
+    },
+    {
+        "threshold": 0.0968,
+        "percentile sum": 40980,
+        "cumulative sum": 17537342
+    },
+    {
+        "threshold": 0.0969,
+        "percentile sum": 40287,
+        "cumulative sum": 17496362
+    },
+    {
+        "threshold": 0.097,
+        "percentile sum": 40232,
+        "cumulative sum": 17456075
+    },
+    {
+        "threshold": 0.0971,
+        "percentile sum": 40244,
+        "cumulative sum": 17415843
+    },
+    {
+        "threshold": 0.0972,
+        "percentile sum": 39735,
+        "cumulative sum": 17375599
+    },
+    {
+        "threshold": 0.0973,
+        "percentile sum": 40078,
+        "cumulative sum": 17335864
+    },
+    {
+        "threshold": 0.0974,
+        "percentile sum": 39088,
+        "cumulative sum": 17295786
+    },
+    {
+        "threshold": 0.0975,
+        "percentile sum": 40086,
+        "cumulative sum": 17256698
+    },
+    {
+        "threshold": 0.0976,
+        "percentile sum": 40023,
+        "cumulative sum": 17216612
+    },
+    {
+        "threshold": 0.0977,
+        "percentile sum": 39123,
+        "cumulative sum": 17176589
+    },
+    {
+        "threshold": 0.0978,
+        "percentile sum": 39287,
+        "cumulative sum": 17137466
+    },
+    {
+        "threshold": 0.0979,
+        "percentile sum": 39559,
+        "cumulative sum": 17098179
+    },
+    {
+        "threshold": 0.098,
+        "percentile sum": 39493,
+        "cumulative sum": 17058620
+    },
+    {
+        "threshold": 0.0981,
+        "percentile sum": 38421,
+        "cumulative sum": 17019127
+    },
+    {
+        "threshold": 0.0982,
+        "percentile sum": 39054,
+        "cumulative sum": 16980706
+    },
+    {
+        "threshold": 0.0983,
+        "percentile sum": 39079,
+        "cumulative sum": 16941652
+    },
+    {
+        "threshold": 0.0984,
+        "percentile sum": 38181,
+        "cumulative sum": 16902573
+    },
+    {
+        "threshold": 0.0985,
+        "percentile sum": 38907,
+        "cumulative sum": 16864392
+    },
+    {
+        "threshold": 0.0986,
+        "percentile sum": 38715,
+        "cumulative sum": 16825485
+    },
+    {
+        "threshold": 0.0987,
+        "percentile sum": 38787,
+        "cumulative sum": 16786770
+    },
+    {
+        "threshold": 0.0988,
+        "percentile sum": 38699,
+        "cumulative sum": 16747983
+    },
+    {
+        "threshold": 0.0989,
+        "percentile sum": 38491,
+        "cumulative sum": 16709284
+    },
+    {
+        "threshold": 0.099,
+        "percentile sum": 38827,
+        "cumulative sum": 16670793
+    },
+    {
+        "threshold": 0.0991,
+        "percentile sum": 37807,
+        "cumulative sum": 16631966
+    },
+    {
+        "threshold": 0.0992,
+        "percentile sum": 38057,
+        "cumulative sum": 16594159
+    },
+    {
+        "threshold": 0.0993,
+        "percentile sum": 37944,
+        "cumulative sum": 16556102
+    },
+    {
+        "threshold": 0.0994,
+        "percentile sum": 37849,
+        "cumulative sum": 16518158
+    },
+    {
+        "threshold": 0.0995,
+        "percentile sum": 38044,
+        "cumulative sum": 16480309
+    },
+    {
+        "threshold": 0.0996,
+        "percentile sum": 37406,
+        "cumulative sum": 16442265
+    },
+    {
+        "threshold": 0.0997,
+        "percentile sum": 37444,
+        "cumulative sum": 16404859
+    },
+    {
+        "threshold": 0.0998,
+        "percentile sum": 38209,
+        "cumulative sum": 16367415
+    },
+    {
+        "threshold": 0.0999,
+        "percentile sum": 37191,
+        "cumulative sum": 16329206
+    },
+    {
+        "threshold": 0.1,
+        "percentile sum": 37729,
+        "cumulative sum": 16292015
+    },
+    {
+        "threshold": 0.1001,
+        "percentile sum": 38088,
+        "cumulative sum": 16254286
+    },
+    {
+        "threshold": 0.1002,
+        "percentile sum": 37268,
+        "cumulative sum": 16216198
+    },
+    {
+        "threshold": 0.1003,
+        "percentile sum": 37753,
+        "cumulative sum": 16178930
+    },
+    {
+        "threshold": 0.1004,
+        "percentile sum": 37434,
+        "cumulative sum": 16141177
+    },
+    {
+        "threshold": 0.1005,
+        "percentile sum": 37519,
+        "cumulative sum": 16103743
+    },
+    {
+        "threshold": 0.1006,
+        "percentile sum": 36682,
+        "cumulative sum": 16066224
+    },
+    {
+        "threshold": 0.1007,
+        "percentile sum": 37475,
+        "cumulative sum": 16029542
+    },
+    {
+        "threshold": 0.1008,
+        "percentile sum": 36763,
+        "cumulative sum": 15992067
+    },
+    {
+        "threshold": 0.1009,
+        "percentile sum": 37135,
+        "cumulative sum": 15955304
+    },
+    {
+        "threshold": 0.101,
+        "percentile sum": 36563,
+        "cumulative sum": 15918169
+    },
+    {
+        "threshold": 0.1011,
+        "percentile sum": 36982,
+        "cumulative sum": 15881606
+    },
+    {
+        "threshold": 0.1012,
+        "percentile sum": 36645,
+        "cumulative sum": 15844624
+    },
+    {
+        "threshold": 0.1013,
+        "percentile sum": 36972,
+        "cumulative sum": 15807979
+    },
+    {
+        "threshold": 0.1014,
+        "percentile sum": 36902,
+        "cumulative sum": 15771007
+    },
+    {
+        "threshold": 0.1015,
+        "percentile sum": 36787,
+        "cumulative sum": 15734105
+    },
+    {
+        "threshold": 0.1016,
+        "percentile sum": 35809,
+        "cumulative sum": 15697318
+    },
+    {
+        "threshold": 0.1017,
+        "percentile sum": 37071,
+        "cumulative sum": 15661509
+    },
+    {
+        "threshold": 0.1018,
+        "percentile sum": 36362,
+        "cumulative sum": 15624438
+    },
+    {
+        "threshold": 0.1019,
+        "percentile sum": 36352,
+        "cumulative sum": 15588076
+    },
+    {
+        "threshold": 0.102,
+        "percentile sum": 36308,
+        "cumulative sum": 15551724
+    },
+    {
+        "threshold": 0.1021,
+        "percentile sum": 35972,
+        "cumulative sum": 15515416
+    },
+    {
+        "threshold": 0.1022,
+        "percentile sum": 35958,
+        "cumulative sum": 15479444
+    },
+    {
+        "threshold": 0.1023,
+        "percentile sum": 35774,
+        "cumulative sum": 15443486
+    },
+    {
+        "threshold": 0.1024,
+        "percentile sum": 35766,
+        "cumulative sum": 15407712
+    },
+    {
+        "threshold": 0.1025,
+        "percentile sum": 35673,
+        "cumulative sum": 15371946
+    },
+    {
+        "threshold": 0.1026,
+        "percentile sum": 35959,
+        "cumulative sum": 15336273
+    },
+    {
+        "threshold": 0.1027,
+        "percentile sum": 36030,
+        "cumulative sum": 15300314
+    },
+    {
+        "threshold": 0.1028,
+        "percentile sum": 34954,
+        "cumulative sum": 15264284
+    },
+    {
+        "threshold": 0.1029,
+        "percentile sum": 35496,
+        "cumulative sum": 15229330
+    },
+    {
+        "threshold": 0.103,
+        "percentile sum": 35115,
+        "cumulative sum": 15193834
+    },
+    {
+        "threshold": 0.1031,
+        "percentile sum": 34562,
+        "cumulative sum": 15158719
+    },
+    {
+        "threshold": 0.1032,
+        "percentile sum": 35115,
+        "cumulative sum": 15124157
+    },
+    {
+        "threshold": 0.1033,
+        "percentile sum": 35355,
+        "cumulative sum": 15089042
+    },
+    {
+        "threshold": 0.1034,
+        "percentile sum": 35100,
+        "cumulative sum": 15053687
+    },
+    {
+        "threshold": 0.1035,
+        "percentile sum": 34977,
+        "cumulative sum": 15018587
+    },
+    {
+        "threshold": 0.1036,
+        "percentile sum": 34689,
+        "cumulative sum": 14983610
+    },
+    {
+        "threshold": 0.1037,
+        "percentile sum": 34880,
+        "cumulative sum": 14948921
+    },
+    {
+        "threshold": 0.1038,
+        "percentile sum": 34617,
+        "cumulative sum": 14914041
+    },
+    {
+        "threshold": 0.1039,
+        "percentile sum": 34070,
+        "cumulative sum": 14879424
+    },
+    {
+        "threshold": 0.104,
+        "percentile sum": 34331,
+        "cumulative sum": 14845354
+    },
+    {
+        "threshold": 0.1041,
+        "percentile sum": 33897,
+        "cumulative sum": 14811023
+    },
+    {
+        "threshold": 0.1042,
+        "percentile sum": 34473,
+        "cumulative sum": 14777126
+    },
+    {
+        "threshold": 0.1043,
+        "percentile sum": 34510,
+        "cumulative sum": 14742653
+    },
+    {
+        "threshold": 0.1044,
+        "percentile sum": 34386,
+        "cumulative sum": 14708143
+    },
+    {
+        "threshold": 0.1045,
+        "percentile sum": 33913,
+        "cumulative sum": 14673757
+    },
+    {
+        "threshold": 0.1046,
+        "percentile sum": 33930,
+        "cumulative sum": 14639844
+    },
+    {
+        "threshold": 0.1047,
+        "percentile sum": 33753,
+        "cumulative sum": 14605914
+    },
+    {
+        "threshold": 0.1048,
+        "percentile sum": 34793,
+        "cumulative sum": 14572161
+    },
+    {
+        "threshold": 0.1049,
+        "percentile sum": 33600,
+        "cumulative sum": 14537368
+    },
+    {
+        "threshold": 0.105,
+        "percentile sum": 34293,
+        "cumulative sum": 14503768
+    },
+    {
+        "threshold": 0.1051,
+        "percentile sum": 33334,
+        "cumulative sum": 14469475
+    },
+    {
+        "threshold": 0.1052,
+        "percentile sum": 33522,
+        "cumulative sum": 14436141
+    },
+    {
+        "threshold": 0.1053,
+        "percentile sum": 33538,
+        "cumulative sum": 14402619
+    },
+    {
+        "threshold": 0.1054,
+        "percentile sum": 33978,
+        "cumulative sum": 14369081
+    },
+    {
+        "threshold": 0.1055,
+        "percentile sum": 33495,
+        "cumulative sum": 14335103
+    },
+    {
+        "threshold": 0.1056,
+        "percentile sum": 33302,
+        "cumulative sum": 14301608
+    },
+    {
+        "threshold": 0.1057,
+        "percentile sum": 33248,
+        "cumulative sum": 14268306
+    },
+    {
+        "threshold": 0.1058,
+        "percentile sum": 33860,
+        "cumulative sum": 14235058
+    },
+    {
+        "threshold": 0.1059,
+        "percentile sum": 33420,
+        "cumulative sum": 14201198
+    },
+    {
+        "threshold": 0.106,
+        "percentile sum": 32858,
+        "cumulative sum": 14167778
+    },
+    {
+        "threshold": 0.1061,
+        "percentile sum": 32926,
+        "cumulative sum": 14134920
+    },
+    {
+        "threshold": 0.1062,
+        "percentile sum": 32531,
+        "cumulative sum": 14101994
+    },
+    {
+        "threshold": 0.1063,
+        "percentile sum": 33281,
+        "cumulative sum": 14069463
+    },
+    {
+        "threshold": 0.1064,
+        "percentile sum": 32777,
+        "cumulative sum": 14036182
+    },
+    {
+        "threshold": 0.1065,
+        "percentile sum": 32508,
+        "cumulative sum": 14003405
+    },
+    {
+        "threshold": 0.1066,
+        "percentile sum": 32287,
+        "cumulative sum": 13970897
+    },
+    {
+        "threshold": 0.1067,
+        "percentile sum": 32718,
+        "cumulative sum": 13938610
+    },
+    {
+        "threshold": 0.1068,
+        "percentile sum": 32976,
+        "cumulative sum": 13905892
+    },
+    {
+        "threshold": 0.1069,
+        "percentile sum": 32687,
+        "cumulative sum": 13872916
+    },
+    {
+        "threshold": 0.107,
+        "percentile sum": 32401,
+        "cumulative sum": 13840229
+    },
+    {
+        "threshold": 0.1071,
+        "percentile sum": 32202,
+        "cumulative sum": 13807828
+    },
+    {
+        "threshold": 0.1072,
+        "percentile sum": 32363,
+        "cumulative sum": 13775626
+    },
+    {
+        "threshold": 0.1073,
+        "percentile sum": 32302,
+        "cumulative sum": 13743263
+    },
+    {
+        "threshold": 0.1074,
+        "percentile sum": 32001,
+        "cumulative sum": 13710961
+    },
+    {
+        "threshold": 0.1075,
+        "percentile sum": 31625,
+        "cumulative sum": 13678960
+    },
+    {
+        "threshold": 0.1076,
+        "percentile sum": 31745,
+        "cumulative sum": 13647335
+    },
+    {
+        "threshold": 0.1077,
+        "percentile sum": 31775,
+        "cumulative sum": 13615590
+    },
+    {
+        "threshold": 0.1078,
+        "percentile sum": 31957,
+        "cumulative sum": 13583815
+    },
+    {
+        "threshold": 0.1079,
+        "percentile sum": 31527,
+        "cumulative sum": 13551858
+    },
+    {
+        "threshold": 0.108,
+        "percentile sum": 31491,
+        "cumulative sum": 13520331
+    },
+    {
+        "threshold": 0.1081,
+        "percentile sum": 31970,
+        "cumulative sum": 13488840
+    },
+    {
+        "threshold": 0.1082,
+        "percentile sum": 31376,
+        "cumulative sum": 13456870
+    },
+    {
+        "threshold": 0.1083,
+        "percentile sum": 31434,
+        "cumulative sum": 13425494
+    },
+    {
+        "threshold": 0.1084,
+        "percentile sum": 31661,
+        "cumulative sum": 13394060
+    },
+    {
+        "threshold": 0.1085,
+        "percentile sum": 30640,
+        "cumulative sum": 13362399
+    },
+    {
+        "threshold": 0.1086,
+        "percentile sum": 31257,
+        "cumulative sum": 13331759
+    },
+    {
+        "threshold": 0.1087,
+        "percentile sum": 30942,
+        "cumulative sum": 13300502
+    },
+    {
+        "threshold": 0.1088,
+        "percentile sum": 30648,
+        "cumulative sum": 13269560
+    },
+    {
+        "threshold": 0.1089,
+        "percentile sum": 30752,
+        "cumulative sum": 13238912
+    },
+    {
+        "threshold": 0.109,
+        "percentile sum": 30622,
+        "cumulative sum": 13208160
+    },
+    {
+        "threshold": 0.1091,
+        "percentile sum": 31282,
+        "cumulative sum": 13177538
+    },
+    {
+        "threshold": 0.1092,
+        "percentile sum": 30159,
+        "cumulative sum": 13146256
+    },
+    {
+        "threshold": 0.1093,
+        "percentile sum": 30482,
+        "cumulative sum": 13116097
+    },
+    {
+        "threshold": 0.1094,
+        "percentile sum": 30443,
+        "cumulative sum": 13085615
+    },
+    {
+        "threshold": 0.1095,
+        "percentile sum": 31122,
+        "cumulative sum": 13055172
+    },
+    {
+        "threshold": 0.1096,
+        "percentile sum": 29996,
+        "cumulative sum": 13024050
+    },
+    {
+        "threshold": 0.1097,
+        "percentile sum": 30347,
+        "cumulative sum": 12994054
+    },
+    {
+        "threshold": 0.1098,
+        "percentile sum": 30366,
+        "cumulative sum": 12963707
+    },
+    {
+        "threshold": 0.1099,
+        "percentile sum": 29985,
+        "cumulative sum": 12933341
+    },
+    {
+        "threshold": 0.11,
+        "percentile sum": 30332,
+        "cumulative sum": 12903356
+    },
+    {
+        "threshold": 0.1101,
+        "percentile sum": 30546,
+        "cumulative sum": 12873024
+    },
+    {
+        "threshold": 0.1102,
+        "percentile sum": 30170,
+        "cumulative sum": 12842478
+    },
+    {
+        "threshold": 0.1103,
+        "percentile sum": 29753,
+        "cumulative sum": 12812308
+    },
+    {
+        "threshold": 0.1104,
+        "percentile sum": 29736,
+        "cumulative sum": 12782555
+    },
+    {
+        "threshold": 0.1105,
+        "percentile sum": 30542,
+        "cumulative sum": 12752819
+    },
+    {
+        "threshold": 0.1106,
+        "percentile sum": 29987,
+        "cumulative sum": 12722277
+    },
+    {
+        "threshold": 0.1107,
+        "percentile sum": 29765,
+        "cumulative sum": 12692290
+    },
+    {
+        "threshold": 0.1108,
+        "percentile sum": 29800,
+        "cumulative sum": 12662525
+    },
+    {
+        "threshold": 0.1109,
+        "percentile sum": 29578,
+        "cumulative sum": 12632725
+    },
+    {
+        "threshold": 0.111,
+        "percentile sum": 29379,
+        "cumulative sum": 12603147
+    },
+    {
+        "threshold": 0.1111,
+        "percentile sum": 29918,
+        "cumulative sum": 12573768
+    },
+    {
+        "threshold": 0.1112,
+        "percentile sum": 29407,
+        "cumulative sum": 12543850
+    },
+    {
+        "threshold": 0.1113,
+        "percentile sum": 29565,
+        "cumulative sum": 12514443
+    },
+    {
+        "threshold": 0.1114,
+        "percentile sum": 28776,
+        "cumulative sum": 12484878
+    },
+    {
+        "threshold": 0.1115,
+        "percentile sum": 29280,
+        "cumulative sum": 12456102
+    },
+    {
+        "threshold": 0.1116,
+        "percentile sum": 29047,
+        "cumulative sum": 12426822
+    },
+    {
+        "threshold": 0.1117,
+        "percentile sum": 29091,
+        "cumulative sum": 12397775
+    },
+    {
+        "threshold": 0.1118,
+        "percentile sum": 28897,
+        "cumulative sum": 12368684
+    },
+    {
+        "threshold": 0.1119,
+        "percentile sum": 28848,
+        "cumulative sum": 12339787
+    },
+    {
+        "threshold": 0.112,
+        "percentile sum": 28467,
+        "cumulative sum": 12310939
+    },
+    {
+        "threshold": 0.1121,
+        "percentile sum": 28931,
+        "cumulative sum": 12282472
+    },
+    {
+        "threshold": 0.1122,
+        "percentile sum": 29061,
+        "cumulative sum": 12253541
+    },
+    {
+        "threshold": 0.1123,
+        "percentile sum": 28943,
+        "cumulative sum": 12224480
+    },
+    {
+        "threshold": 0.1124,
+        "percentile sum": 29407,
+        "cumulative sum": 12195537
+    },
+    {
+        "threshold": 0.1125,
+        "percentile sum": 28393,
+        "cumulative sum": 12166130
+    },
+    {
+        "threshold": 0.1126,
+        "percentile sum": 29121,
+        "cumulative sum": 12137737
+    },
+    {
+        "threshold": 0.1127,
+        "percentile sum": 28670,
+        "cumulative sum": 12108616
+    },
+    {
+        "threshold": 0.1128,
+        "percentile sum": 28505,
+        "cumulative sum": 12079946
+    },
+    {
+        "threshold": 0.1129,
+        "percentile sum": 28727,
+        "cumulative sum": 12051441
+    },
+    {
+        "threshold": 0.113,
+        "percentile sum": 28598,
+        "cumulative sum": 12022714
+    },
+    {
+        "threshold": 0.1131,
+        "percentile sum": 28020,
+        "cumulative sum": 11994116
+    },
+    {
+        "threshold": 0.1132,
+        "percentile sum": 28193,
+        "cumulative sum": 11966096
+    },
+    {
+        "threshold": 0.1133,
+        "percentile sum": 27872,
+        "cumulative sum": 11937903
+    },
+    {
+        "threshold": 0.1134,
+        "percentile sum": 27658,
+        "cumulative sum": 11910031
+    },
+    {
+        "threshold": 0.1135,
+        "percentile sum": 27635,
+        "cumulative sum": 11882373
+    },
+    {
+        "threshold": 0.1136,
+        "percentile sum": 27840,
+        "cumulative sum": 11854738
+    },
+    {
+        "threshold": 0.1137,
+        "percentile sum": 28044,
+        "cumulative sum": 11826898
+    },
+    {
+        "threshold": 0.1138,
+        "percentile sum": 27566,
+        "cumulative sum": 11798854
+    },
+    {
+        "threshold": 0.1139,
+        "percentile sum": 27389,
+        "cumulative sum": 11771288
+    },
+    {
+        "threshold": 0.114,
+        "percentile sum": 27492,
+        "cumulative sum": 11743899
+    },
+    {
+        "threshold": 0.1141,
+        "percentile sum": 27288,
+        "cumulative sum": 11716407
+    },
+    {
+        "threshold": 0.1142,
+        "percentile sum": 27708,
+        "cumulative sum": 11689119
+    },
+    {
+        "threshold": 0.1143,
+        "percentile sum": 27216,
+        "cumulative sum": 11661411
+    },
+    {
+        "threshold": 0.1144,
+        "percentile sum": 27436,
+        "cumulative sum": 11634195
+    },
+    {
+        "threshold": 0.1145,
+        "percentile sum": 26718,
+        "cumulative sum": 11606759
+    },
+    {
+        "threshold": 0.1146,
+        "percentile sum": 27157,
+        "cumulative sum": 11580041
+    },
+    {
+        "threshold": 0.1147,
+        "percentile sum": 26694,
+        "cumulative sum": 11552884
+    },
+    {
+        "threshold": 0.1148,
+        "percentile sum": 27376,
+        "cumulative sum": 11526190
+    },
+    {
+        "threshold": 0.1149,
+        "percentile sum": 26898,
+        "cumulative sum": 11498814
+    },
+    {
+        "threshold": 0.115,
+        "percentile sum": 26647,
+        "cumulative sum": 11471916
+    },
+    {
+        "threshold": 0.1151,
+        "percentile sum": 26678,
+        "cumulative sum": 11445269
+    },
+    {
+        "threshold": 0.1152,
+        "percentile sum": 26631,
+        "cumulative sum": 11418591
+    },
+    {
+        "threshold": 0.1153,
+        "percentile sum": 26642,
+        "cumulative sum": 11391960
+    },
+    {
+        "threshold": 0.1154,
+        "percentile sum": 26838,
+        "cumulative sum": 11365318
+    },
+    {
+        "threshold": 0.1155,
+        "percentile sum": 26348,
+        "cumulative sum": 11338480
+    },
+    {
+        "threshold": 0.1156,
+        "percentile sum": 26479,
+        "cumulative sum": 11312132
+    },
+    {
+        "threshold": 0.1157,
+        "percentile sum": 25985,
+        "cumulative sum": 11285653
+    },
+    {
+        "threshold": 0.1158,
+        "percentile sum": 26649,
+        "cumulative sum": 11259668
+    },
+    {
+        "threshold": 0.1159,
+        "percentile sum": 26423,
+        "cumulative sum": 11233019
+    },
+    {
+        "threshold": 0.116,
+        "percentile sum": 26684,
+        "cumulative sum": 11206596
+    },
+    {
+        "threshold": 0.1161,
+        "percentile sum": 26314,
+        "cumulative sum": 11179912
+    },
+    {
+        "threshold": 0.1162,
+        "percentile sum": 26632,
+        "cumulative sum": 11153598
+    },
+    {
+        "threshold": 0.1163,
+        "percentile sum": 26421,
+        "cumulative sum": 11126966
+    },
+    {
+        "threshold": 0.1164,
+        "percentile sum": 27065,
+        "cumulative sum": 11100545
+    },
+    {
+        "threshold": 0.1165,
+        "percentile sum": 25955,
+        "cumulative sum": 11073480
+    },
+    {
+        "threshold": 0.1166,
+        "percentile sum": 25795,
+        "cumulative sum": 11047525
+    },
+    {
+        "threshold": 0.1167,
+        "percentile sum": 26042,
+        "cumulative sum": 11021730
+    },
+    {
+        "threshold": 0.1168,
+        "percentile sum": 25702,
+        "cumulative sum": 10995688
+    },
+    {
+        "threshold": 0.1169,
+        "percentile sum": 26514,
+        "cumulative sum": 10969986
+    },
+    {
+        "threshold": 0.117,
+        "percentile sum": 25081,
+        "cumulative sum": 10943472
+    },
+    {
+        "threshold": 0.1171,
+        "percentile sum": 25441,
+        "cumulative sum": 10918391
+    },
+    {
+        "threshold": 0.1172,
+        "percentile sum": 26001,
+        "cumulative sum": 10892950
+    },
+    {
+        "threshold": 0.1173,
+        "percentile sum": 25377,
+        "cumulative sum": 10866949
+    },
+    {
+        "threshold": 0.1174,
+        "percentile sum": 25852,
+        "cumulative sum": 10841572
+    },
+    {
+        "threshold": 0.1175,
+        "percentile sum": 25403,
+        "cumulative sum": 10815720
+    },
+    {
+        "threshold": 0.1176,
+        "percentile sum": 25691,
+        "cumulative sum": 10790317
+    },
+    {
+        "threshold": 0.1177,
+        "percentile sum": 25640,
+        "cumulative sum": 10764626
+    },
+    {
+        "threshold": 0.1178,
+        "percentile sum": 25680,
+        "cumulative sum": 10738986
+    },
+    {
+        "threshold": 0.1179,
+        "percentile sum": 25176,
+        "cumulative sum": 10713306
+    },
+    {
+        "threshold": 0.118,
+        "percentile sum": 25300,
+        "cumulative sum": 10688130
+    },
+    {
+        "threshold": 0.1181,
+        "percentile sum": 24829,
+        "cumulative sum": 10662830
+    },
+    {
+        "threshold": 0.1182,
+        "percentile sum": 25020,
+        "cumulative sum": 10638001
+    },
+    {
+        "threshold": 0.1183,
+        "percentile sum": 24609,
+        "cumulative sum": 10612981
+    },
+    {
+        "threshold": 0.1184,
+        "percentile sum": 25218,
+        "cumulative sum": 10588372
+    },
+    {
+        "threshold": 0.1185,
+        "percentile sum": 24900,
+        "cumulative sum": 10563154
+    },
+    {
+        "threshold": 0.1186,
+        "percentile sum": 24814,
+        "cumulative sum": 10538254
+    },
+    {
+        "threshold": 0.1187,
+        "percentile sum": 24867,
+        "cumulative sum": 10513440
+    },
+    {
+        "threshold": 0.1188,
+        "percentile sum": 24575,
+        "cumulative sum": 10488573
+    },
+    {
+        "threshold": 0.1189,
+        "percentile sum": 24563,
+        "cumulative sum": 10463998
+    },
+    {
+        "threshold": 0.119,
+        "percentile sum": 24543,
+        "cumulative sum": 10439435
+    },
+    {
+        "threshold": 0.1191,
+        "percentile sum": 24543,
+        "cumulative sum": 10414892
+    },
+    {
+        "threshold": 0.1192,
+        "percentile sum": 24393,
+        "cumulative sum": 10390349
+    },
+    {
+        "threshold": 0.1193,
+        "percentile sum": 24172,
+        "cumulative sum": 10365956
+    },
+    {
+        "threshold": 0.1194,
+        "percentile sum": 24174,
+        "cumulative sum": 10341784
+    },
+    {
+        "threshold": 0.1195,
+        "percentile sum": 24291,
+        "cumulative sum": 10317610
+    },
+    {
+        "threshold": 0.1196,
+        "percentile sum": 24259,
+        "cumulative sum": 10293319
+    },
+    {
+        "threshold": 0.1197,
+        "percentile sum": 23825,
+        "cumulative sum": 10269060
+    },
+    {
+        "threshold": 0.1198,
+        "percentile sum": 23863,
+        "cumulative sum": 10245235
+    },
+    {
+        "threshold": 0.1199,
+        "percentile sum": 23979,
+        "cumulative sum": 10221372
+    },
+    {
+        "threshold": 0.12,
+        "percentile sum": 23974,
+        "cumulative sum": 10197393
+    },
+    {
+        "threshold": 0.1201,
+        "percentile sum": 23932,
+        "cumulative sum": 10173419
+    },
+    {
+        "threshold": 0.1202,
+        "percentile sum": 23653,
+        "cumulative sum": 10149487
+    },
+    {
+        "threshold": 0.1203,
+        "percentile sum": 23789,
+        "cumulative sum": 10125834
+    },
+    {
+        "threshold": 0.1204,
+        "percentile sum": 24008,
+        "cumulative sum": 10102045
+    },
+    {
+        "threshold": 0.1205,
+        "percentile sum": 23352,
+        "cumulative sum": 10078037
+    },
+    {
+        "threshold": 0.1206,
+        "percentile sum": 23647,
+        "cumulative sum": 10054685
+    },
+    {
+        "threshold": 0.1207,
+        "percentile sum": 23930,
+        "cumulative sum": 10031038
+    },
+    {
+        "threshold": 0.1208,
+        "percentile sum": 23639,
+        "cumulative sum": 10007108
+    },
+    {
+        "threshold": 0.1209,
+        "percentile sum": 23394,
+        "cumulative sum": 9983469
+    },
+    {
+        "threshold": 0.121,
+        "percentile sum": 23309,
+        "cumulative sum": 9960075
+    },
+    {
+        "threshold": 0.1211,
+        "percentile sum": 23419,
+        "cumulative sum": 9936766
+    },
+    {
+        "threshold": 0.1212,
+        "percentile sum": 23338,
+        "cumulative sum": 9913347
+    },
+    {
+        "threshold": 0.1213,
+        "percentile sum": 23155,
+        "cumulative sum": 9890009
+    },
+    {
+        "threshold": 0.1214,
+        "percentile sum": 23636,
+        "cumulative sum": 9866854
+    },
+    {
+        "threshold": 0.1215,
+        "percentile sum": 22861,
+        "cumulative sum": 9843218
+    },
+    {
+        "threshold": 0.1216,
+        "percentile sum": 22945,
+        "cumulative sum": 9820357
+    },
+    {
+        "threshold": 0.1217,
+        "percentile sum": 23524,
+        "cumulative sum": 9797412
+    },
+    {
+        "threshold": 0.1218,
+        "percentile sum": 23015,
+        "cumulative sum": 9773888
+    },
+    {
+        "threshold": 0.1219,
+        "percentile sum": 22981,
+        "cumulative sum": 9750873
+    },
+    {
+        "threshold": 0.122,
+        "percentile sum": 22645,
+        "cumulative sum": 9727892
+    },
+    {
+        "threshold": 0.1221,
+        "percentile sum": 23591,
+        "cumulative sum": 9705247
+    },
+    {
+        "threshold": 0.1222,
+        "percentile sum": 22679,
+        "cumulative sum": 9681656
+    },
+    {
+        "threshold": 0.1223,
+        "percentile sum": 22647,
+        "cumulative sum": 9658977
+    },
+    {
+        "threshold": 0.1224,
+        "percentile sum": 22875,
+        "cumulative sum": 9636330
+    },
+    {
+        "threshold": 0.1225,
+        "percentile sum": 22456,
+        "cumulative sum": 9613455
+    },
+    {
+        "threshold": 0.1226,
+        "percentile sum": 22565,
+        "cumulative sum": 9590999
+    },
+    {
+        "threshold": 0.1227,
+        "percentile sum": 24326,
+        "cumulative sum": 9568434
+    },
+    {
+        "threshold": 0.1228,
+        "percentile sum": 22579,
+        "cumulative sum": 9544108
+    },
+    {
+        "threshold": 0.1229,
+        "percentile sum": 22260,
+        "cumulative sum": 9521529
+    },
+    {
+        "threshold": 0.123,
+        "percentile sum": 22364,
+        "cumulative sum": 9499269
+    },
+    {
+        "threshold": 0.1231,
+        "percentile sum": 22145,
+        "cumulative sum": 9476905
+    },
+    {
+        "threshold": 0.1232,
+        "percentile sum": 22009,
+        "cumulative sum": 9454760
+    },
+    {
+        "threshold": 0.1233,
+        "percentile sum": 22305,
+        "cumulative sum": 9432751
+    },
+    {
+        "threshold": 0.1234,
+        "percentile sum": 21961,
+        "cumulative sum": 9410446
+    },
+    {
+        "threshold": 0.1235,
+        "percentile sum": 21784,
+        "cumulative sum": 9388485
+    },
+    {
+        "threshold": 0.1236,
+        "percentile sum": 22795,
+        "cumulative sum": 9366701
+    },
+    {
+        "threshold": 0.1237,
+        "percentile sum": 22034,
+        "cumulative sum": 9343906
+    },
+    {
+        "threshold": 0.1238,
+        "percentile sum": 21668,
+        "cumulative sum": 9321872
+    },
+    {
+        "threshold": 0.1239,
+        "percentile sum": 22064,
+        "cumulative sum": 9300204
+    },
+    {
+        "threshold": 0.124,
+        "percentile sum": 21662,
+        "cumulative sum": 9278140
+    },
+    {
+        "threshold": 0.1241,
+        "percentile sum": 21974,
+        "cumulative sum": 9256478
+    },
+    {
+        "threshold": 0.1242,
+        "percentile sum": 21577,
+        "cumulative sum": 9234504
+    },
+    {
+        "threshold": 0.1243,
+        "percentile sum": 21769,
+        "cumulative sum": 9212927
+    },
+    {
+        "threshold": 0.1244,
+        "percentile sum": 21410,
+        "cumulative sum": 9191158
+    },
+    {
+        "threshold": 0.1245,
+        "percentile sum": 21675,
+        "cumulative sum": 9169748
+    },
+    {
+        "threshold": 0.1246,
+        "percentile sum": 21678,
+        "cumulative sum": 9148073
+    },
+    {
+        "threshold": 0.1247,
+        "percentile sum": 21244,
+        "cumulative sum": 9126395
+    },
+    {
+        "threshold": 0.1248,
+        "percentile sum": 21326,
+        "cumulative sum": 9105151
+    },
+    {
+        "threshold": 0.1249,
+        "percentile sum": 20989,
+        "cumulative sum": 9083825
+    },
+    {
+        "threshold": 0.125,
+        "percentile sum": 21378,
+        "cumulative sum": 9062836
+    },
+    {
+        "threshold": 0.1251,
+        "percentile sum": 20902,
+        "cumulative sum": 9041458
+    },
+    {
+        "threshold": 0.1252,
+        "percentile sum": 21269,
+        "cumulative sum": 9020556
+    },
+    {
+        "threshold": 0.1253,
+        "percentile sum": 21246,
+        "cumulative sum": 8999287
+    },
+    {
+        "threshold": 0.1254,
+        "percentile sum": 20782,
+        "cumulative sum": 8978041
+    },
+    {
+        "threshold": 0.1255,
+        "percentile sum": 21132,
+        "cumulative sum": 8957259
+    },
+    {
+        "threshold": 0.1256,
+        "percentile sum": 20761,
+        "cumulative sum": 8936127
+    },
+    {
+        "threshold": 0.1257,
+        "percentile sum": 20602,
+        "cumulative sum": 8915366
+    },
+    {
+        "threshold": 0.1258,
+        "percentile sum": 21042,
+        "cumulative sum": 8894764
+    },
+    {
+        "threshold": 0.1259,
+        "percentile sum": 20810,
+        "cumulative sum": 8873722
+    },
+    {
+        "threshold": 0.126,
+        "percentile sum": 21012,
+        "cumulative sum": 8852912
+    },
+    {
+        "threshold": 0.1261,
+        "percentile sum": 20619,
+        "cumulative sum": 8831900
+    },
+    {
+        "threshold": 0.1262,
+        "percentile sum": 20689,
+        "cumulative sum": 8811281
+    },
+    {
+        "threshold": 0.1263,
+        "percentile sum": 20513,
+        "cumulative sum": 8790592
+    },
+    {
+        "threshold": 0.1264,
+        "percentile sum": 20839,
+        "cumulative sum": 8770079
+    },
+    {
+        "threshold": 0.1265,
+        "percentile sum": 20849,
+        "cumulative sum": 8749240
+    },
+    {
+        "threshold": 0.1266,
+        "percentile sum": 20728,
+        "cumulative sum": 8728391
+    },
+    {
+        "threshold": 0.1267,
+        "percentile sum": 20172,
+        "cumulative sum": 8707663
+    },
+    {
+        "threshold": 0.1268,
+        "percentile sum": 20530,
+        "cumulative sum": 8687491
+    },
+    {
+        "threshold": 0.1269,
+        "percentile sum": 20290,
+        "cumulative sum": 8666961
+    },
+    {
+        "threshold": 0.127,
+        "percentile sum": 20518,
+        "cumulative sum": 8646671
+    },
+    {
+        "threshold": 0.1271,
+        "percentile sum": 20311,
+        "cumulative sum": 8626153
+    },
+    {
+        "threshold": 0.1272,
+        "percentile sum": 20449,
+        "cumulative sum": 8605842
+    },
+    {
+        "threshold": 0.1273,
+        "percentile sum": 20305,
+        "cumulative sum": 8585393
+    },
+    {
+        "threshold": 0.1274,
+        "percentile sum": 20734,
+        "cumulative sum": 8565088
+    },
+    {
+        "threshold": 0.1275,
+        "percentile sum": 19917,
+        "cumulative sum": 8544354
+    },
+    {
+        "threshold": 0.1276,
+        "percentile sum": 20096,
+        "cumulative sum": 8524437
+    },
+    {
+        "threshold": 0.1277,
+        "percentile sum": 20164,
+        "cumulative sum": 8504341
+    },
+    {
+        "threshold": 0.1278,
+        "percentile sum": 19890,
+        "cumulative sum": 8484177
+    },
+    {
+        "threshold": 0.1279,
+        "percentile sum": 20211,
+        "cumulative sum": 8464287
+    },
+    {
+        "threshold": 0.128,
+        "percentile sum": 20221,
+        "cumulative sum": 8444076
+    },
+    {
+        "threshold": 0.1281,
+        "percentile sum": 20061,
+        "cumulative sum": 8423855
+    },
+    {
+        "threshold": 0.1282,
+        "percentile sum": 19787,
+        "cumulative sum": 8403794
+    },
+    {
+        "threshold": 0.1283,
+        "percentile sum": 19495,
+        "cumulative sum": 8384007
+    },
+    {
+        "threshold": 0.1284,
+        "percentile sum": 19810,
+        "cumulative sum": 8364512
+    },
+    {
+        "threshold": 0.1285,
+        "percentile sum": 19669,
+        "cumulative sum": 8344702
+    },
+    {
+        "threshold": 0.1286,
+        "percentile sum": 19473,
+        "cumulative sum": 8325033
+    },
+    {
+        "threshold": 0.1287,
+        "percentile sum": 19435,
+        "cumulative sum": 8305560
+    },
+    {
+        "threshold": 0.1288,
+        "percentile sum": 19499,
+        "cumulative sum": 8286125
+    },
+    {
+        "threshold": 0.1289,
+        "percentile sum": 19231,
+        "cumulative sum": 8266626
+    },
+    {
+        "threshold": 0.129,
+        "percentile sum": 19281,
+        "cumulative sum": 8247395
+    },
+    {
+        "threshold": 0.1291,
+        "percentile sum": 19373,
+        "cumulative sum": 8228114
+    },
+    {
+        "threshold": 0.1292,
+        "percentile sum": 19173,
+        "cumulative sum": 8208741
+    },
+    {
+        "threshold": 0.1293,
+        "percentile sum": 19189,
+        "cumulative sum": 8189568
+    },
+    {
+        "threshold": 0.1294,
+        "percentile sum": 19140,
+        "cumulative sum": 8170379
+    },
+    {
+        "threshold": 0.1295,
+        "percentile sum": 19091,
+        "cumulative sum": 8151239
+    },
+    {
+        "threshold": 0.1296,
+        "percentile sum": 18789,
+        "cumulative sum": 8132148
+    },
+    {
+        "threshold": 0.1297,
+        "percentile sum": 19070,
+        "cumulative sum": 8113359
+    },
+    {
+        "threshold": 0.1298,
+        "percentile sum": 18717,
+        "cumulative sum": 8094289
+    },
+    {
+        "threshold": 0.1299,
+        "percentile sum": 18542,
+        "cumulative sum": 8075572
+    },
+    {
+        "threshold": 0.13,
+        "percentile sum": 19079,
+        "cumulative sum": 8057030
+    },
+    {
+        "threshold": 0.1301,
+        "percentile sum": 18649,
+        "cumulative sum": 8037951
+    },
+    {
+        "threshold": 0.1302,
+        "percentile sum": 18880,
+        "cumulative sum": 8019302
+    },
+    {
+        "threshold": 0.1303,
+        "percentile sum": 19031,
+        "cumulative sum": 8000422
+    },
+    {
+        "threshold": 0.1304,
+        "percentile sum": 18687,
+        "cumulative sum": 7981391
+    },
+    {
+        "threshold": 0.1305,
+        "percentile sum": 18460,
+        "cumulative sum": 7962704
+    },
+    {
+        "threshold": 0.1306,
+        "percentile sum": 18709,
+        "cumulative sum": 7944244
+    },
+    {
+        "threshold": 0.1307,
+        "percentile sum": 18598,
+        "cumulative sum": 7925535
+    },
+    {
+        "threshold": 0.1308,
+        "percentile sum": 18441,
+        "cumulative sum": 7906937
+    },
+    {
+        "threshold": 0.1309,
+        "percentile sum": 18555,
+        "cumulative sum": 7888496
+    },
+    {
+        "threshold": 0.131,
+        "percentile sum": 18429,
+        "cumulative sum": 7869941
+    },
+    {
+        "threshold": 0.1311,
+        "percentile sum": 18198,
+        "cumulative sum": 7851512
+    },
+    {
+        "threshold": 0.1312,
+        "percentile sum": 18178,
+        "cumulative sum": 7833314
+    },
+    {
+        "threshold": 0.1313,
+        "percentile sum": 18342,
+        "cumulative sum": 7815136
+    },
+    {
+        "threshold": 0.1314,
+        "percentile sum": 17916,
+        "cumulative sum": 7796794
+    },
+    {
+        "threshold": 0.1315,
+        "percentile sum": 18291,
+        "cumulative sum": 7778878
+    },
+    {
+        "threshold": 0.1316,
+        "percentile sum": 18379,
+        "cumulative sum": 7760587
+    },
+    {
+        "threshold": 0.1317,
+        "percentile sum": 18306,
+        "cumulative sum": 7742208
+    },
+    {
+        "threshold": 0.1318,
+        "percentile sum": 17905,
+        "cumulative sum": 7723902
+    },
+    {
+        "threshold": 0.1319,
+        "percentile sum": 18063,
+        "cumulative sum": 7705997
+    },
+    {
+        "threshold": 0.132,
+        "percentile sum": 18121,
+        "cumulative sum": 7687934
+    },
+    {
+        "threshold": 0.1321,
+        "percentile sum": 17900,
+        "cumulative sum": 7669813
+    },
+    {
+        "threshold": 0.1322,
+        "percentile sum": 17813,
+        "cumulative sum": 7651913
+    },
+    {
+        "threshold": 0.1323,
+        "percentile sum": 18021,
+        "cumulative sum": 7634100
+    },
+    {
+        "threshold": 0.1324,
+        "percentile sum": 17519,
+        "cumulative sum": 7616079
+    },
+    {
+        "threshold": 0.1325,
+        "percentile sum": 17994,
+        "cumulative sum": 7598560
+    },
+    {
+        "threshold": 0.1326,
+        "percentile sum": 17799,
+        "cumulative sum": 7580566
+    },
+    {
+        "threshold": 0.1327,
+        "percentile sum": 17590,
+        "cumulative sum": 7562767
+    },
+    {
+        "threshold": 0.1328,
+        "percentile sum": 17719,
+        "cumulative sum": 7545177
+    },
+    {
+        "threshold": 0.1329,
+        "percentile sum": 17981,
+        "cumulative sum": 7527458
+    },
+    {
+        "threshold": 0.133,
+        "percentile sum": 17736,
+        "cumulative sum": 7509477
+    },
+    {
+        "threshold": 0.1331,
+        "percentile sum": 17638,
+        "cumulative sum": 7491741
+    },
+    {
+        "threshold": 0.1332,
+        "percentile sum": 17321,
+        "cumulative sum": 7474103
+    },
+    {
+        "threshold": 0.1333,
+        "percentile sum": 17780,
+        "cumulative sum": 7456782
+    },
+    {
+        "threshold": 0.1334,
+        "percentile sum": 17268,
+        "cumulative sum": 7439002
+    },
+    {
+        "threshold": 0.1335,
+        "percentile sum": 17493,
+        "cumulative sum": 7421734
+    },
+    {
+        "threshold": 0.1336,
+        "percentile sum": 17283,
+        "cumulative sum": 7404241
+    },
+    {
+        "threshold": 0.1337,
+        "percentile sum": 17352,
+        "cumulative sum": 7386958
+    },
+    {
+        "threshold": 0.1338,
+        "percentile sum": 16966,
+        "cumulative sum": 7369606
+    },
+    {
+        "threshold": 0.1339,
+        "percentile sum": 17016,
+        "cumulative sum": 7352640
+    },
+    {
+        "threshold": 0.134,
+        "percentile sum": 17345,
+        "cumulative sum": 7335624
+    },
+    {
+        "threshold": 0.1341,
+        "percentile sum": 17032,
+        "cumulative sum": 7318279
+    },
+    {
+        "threshold": 0.1342,
+        "percentile sum": 17210,
+        "cumulative sum": 7301247
+    },
+    {
+        "threshold": 0.1343,
+        "percentile sum": 16816,
+        "cumulative sum": 7284037
+    },
+    {
+        "threshold": 0.1344,
+        "percentile sum": 17413,
+        "cumulative sum": 7267221
+    },
+    {
+        "threshold": 0.1345,
+        "percentile sum": 16690,
+        "cumulative sum": 7249808
+    },
+    {
+        "threshold": 0.1346,
+        "percentile sum": 16967,
+        "cumulative sum": 7233118
+    },
+    {
+        "threshold": 0.1347,
+        "percentile sum": 16896,
+        "cumulative sum": 7216151
+    },
+    {
+        "threshold": 0.1348,
+        "percentile sum": 17218,
+        "cumulative sum": 7199255
+    },
+    {
+        "threshold": 0.1349,
+        "percentile sum": 17013,
+        "cumulative sum": 7182037
+    },
+    {
+        "threshold": 0.135,
+        "percentile sum": 16599,
+        "cumulative sum": 7165024
+    },
+    {
+        "threshold": 0.1351,
+        "percentile sum": 16495,
+        "cumulative sum": 7148425
+    },
+    {
+        "threshold": 0.1352,
+        "percentile sum": 16678,
+        "cumulative sum": 7131930
+    },
+    {
+        "threshold": 0.1353,
+        "percentile sum": 16457,
+        "cumulative sum": 7115252
+    },
+    {
+        "threshold": 0.1354,
+        "percentile sum": 16387,
+        "cumulative sum": 7098795
+    },
+    {
+        "threshold": 0.1355,
+        "percentile sum": 16593,
+        "cumulative sum": 7082408
+    },
+    {
+        "threshold": 0.1356,
+        "percentile sum": 16533,
+        "cumulative sum": 7065815
+    },
+    {
+        "threshold": 0.1357,
+        "percentile sum": 16752,
+        "cumulative sum": 7049282
+    },
+    {
+        "threshold": 0.1358,
+        "percentile sum": 16485,
+        "cumulative sum": 7032530
+    },
+    {
+        "threshold": 0.1359,
+        "percentile sum": 16436,
+        "cumulative sum": 7016045
+    },
+    {
+        "threshold": 0.136,
+        "percentile sum": 16235,
+        "cumulative sum": 6999609
+    },
+    {
+        "threshold": 0.1361,
+        "percentile sum": 16681,
+        "cumulative sum": 6983374
+    },
+    {
+        "threshold": 0.1362,
+        "percentile sum": 15966,
+        "cumulative sum": 6966693
+    },
+    {
+        "threshold": 0.1363,
+        "percentile sum": 16240,
+        "cumulative sum": 6950727
+    },
+    {
+        "threshold": 0.1364,
+        "percentile sum": 16259,
+        "cumulative sum": 6934487
+    },
+    {
+        "threshold": 0.1365,
+        "percentile sum": 16419,
+        "cumulative sum": 6918228
+    },
+    {
+        "threshold": 0.1366,
+        "percentile sum": 16148,
+        "cumulative sum": 6901809
+    },
+    {
+        "threshold": 0.1367,
+        "percentile sum": 16081,
+        "cumulative sum": 6885661
+    },
+    {
+        "threshold": 0.1368,
+        "percentile sum": 16263,
+        "cumulative sum": 6869580
+    },
+    {
+        "threshold": 0.1369,
+        "percentile sum": 15906,
+        "cumulative sum": 6853317
+    },
+    {
+        "threshold": 0.137,
+        "percentile sum": 16350,
+        "cumulative sum": 6837411
+    },
+    {
+        "threshold": 0.1371,
+        "percentile sum": 15777,
+        "cumulative sum": 6821061
+    },
+    {
+        "threshold": 0.1372,
+        "percentile sum": 15538,
+        "cumulative sum": 6805284
+    },
+    {
+        "threshold": 0.1373,
+        "percentile sum": 15787,
+        "cumulative sum": 6789746
+    },
+    {
+        "threshold": 0.1374,
+        "percentile sum": 15861,
+        "cumulative sum": 6773959
+    },
+    {
+        "threshold": 0.1375,
+        "percentile sum": 15833,
+        "cumulative sum": 6758098
+    },
+    {
+        "threshold": 0.1376,
+        "percentile sum": 15619,
+        "cumulative sum": 6742265
+    },
+    {
+        "threshold": 0.1377,
+        "percentile sum": 15663,
+        "cumulative sum": 6726646
+    },
+    {
+        "threshold": 0.1378,
+        "percentile sum": 15444,
+        "cumulative sum": 6710983
+    },
+    {
+        "threshold": 0.1379,
+        "percentile sum": 15871,
+        "cumulative sum": 6695539
+    },
+    {
+        "threshold": 0.138,
+        "percentile sum": 15449,
+        "cumulative sum": 6679668
+    },
+    {
+        "threshold": 0.1381,
+        "percentile sum": 15444,
+        "cumulative sum": 6664219
+    },
+    {
+        "threshold": 0.1382,
+        "percentile sum": 15641,
+        "cumulative sum": 6648775
+    },
+    {
+        "threshold": 0.1383,
+        "percentile sum": 15582,
+        "cumulative sum": 6633134
+    },
+    {
+        "threshold": 0.1384,
+        "percentile sum": 15802,
+        "cumulative sum": 6617552
+    },
+    {
+        "threshold": 0.1385,
+        "percentile sum": 15657,
+        "cumulative sum": 6601750
+    },
+    {
+        "threshold": 0.1386,
+        "percentile sum": 15607,
+        "cumulative sum": 6586093
+    },
+    {
+        "threshold": 0.1387,
+        "percentile sum": 14972,
+        "cumulative sum": 6570486
+    },
+    {
+        "threshold": 0.1388,
+        "percentile sum": 15481,
+        "cumulative sum": 6555514
+    },
+    {
+        "threshold": 0.1389,
+        "percentile sum": 15095,
+        "cumulative sum": 6540033
+    },
+    {
+        "threshold": 0.139,
+        "percentile sum": 15488,
+        "cumulative sum": 6524938
+    },
+    {
+        "threshold": 0.1391,
+        "percentile sum": 15024,
+        "cumulative sum": 6509450
+    },
+    {
+        "threshold": 0.1392,
+        "percentile sum": 15485,
+        "cumulative sum": 6494426
+    },
+    {
+        "threshold": 0.1393,
+        "percentile sum": 14819,
+        "cumulative sum": 6478941
+    },
+    {
+        "threshold": 0.1394,
+        "percentile sum": 15060,
+        "cumulative sum": 6464122
+    },
+    {
+        "threshold": 0.1395,
+        "percentile sum": 14865,
+        "cumulative sum": 6449062
+    },
+    {
+        "threshold": 0.1396,
+        "percentile sum": 15057,
+        "cumulative sum": 6434197
+    },
+    {
+        "threshold": 0.1397,
+        "percentile sum": 15225,
+        "cumulative sum": 6419140
+    },
+    {
+        "threshold": 0.1398,
+        "percentile sum": 14824,
+        "cumulative sum": 6403915
+    },
+    {
+        "threshold": 0.1399,
+        "percentile sum": 14816,
+        "cumulative sum": 6389091
+    },
+    {
+        "threshold": 0.14,
+        "percentile sum": 15251,
+        "cumulative sum": 6374275
+    },
+    {
+        "threshold": 0.1401,
+        "percentile sum": 14901,
+        "cumulative sum": 6359024
+    },
+    {
+        "threshold": 0.1402,
+        "percentile sum": 14789,
+        "cumulative sum": 6344123
+    },
+    {
+        "threshold": 0.1403,
+        "percentile sum": 14856,
+        "cumulative sum": 6329334
+    },
+    {
+        "threshold": 0.1404,
+        "percentile sum": 14620,
+        "cumulative sum": 6314478
+    },
+    {
+        "threshold": 0.1405,
+        "percentile sum": 14597,
+        "cumulative sum": 6299858
+    },
+    {
+        "threshold": 0.1406,
+        "percentile sum": 14631,
+        "cumulative sum": 6285261
+    },
+    {
+        "threshold": 0.1407,
+        "percentile sum": 14569,
+        "cumulative sum": 6270630
+    },
+    {
+        "threshold": 0.1408,
+        "percentile sum": 14810,
+        "cumulative sum": 6256061
+    },
+    {
+        "threshold": 0.1409,
+        "percentile sum": 14372,
+        "cumulative sum": 6241251
+    },
+    {
+        "threshold": 0.141,
+        "percentile sum": 14703,
+        "cumulative sum": 6226879
+    },
+    {
+        "threshold": 0.1411,
+        "percentile sum": 14346,
+        "cumulative sum": 6212176
+    },
+    {
+        "threshold": 0.1412,
+        "percentile sum": 14057,
+        "cumulative sum": 6197830
+    },
+    {
+        "threshold": 0.1413,
+        "percentile sum": 14202,
+        "cumulative sum": 6183773
+    },
+    {
+        "threshold": 0.1414,
+        "percentile sum": 14154,
+        "cumulative sum": 6169571
+    },
+    {
+        "threshold": 0.1415,
+        "percentile sum": 14427,
+        "cumulative sum": 6155417
+    },
+    {
+        "threshold": 0.1416,
+        "percentile sum": 14189,
+        "cumulative sum": 6140990
+    },
+    {
+        "threshold": 0.1417,
+        "percentile sum": 13710,
+        "cumulative sum": 6126801
+    },
+    {
+        "threshold": 0.1418,
+        "percentile sum": 14389,
+        "cumulative sum": 6113091
+    },
+    {
+        "threshold": 0.1419,
+        "percentile sum": 13978,
+        "cumulative sum": 6098702
+    },
+    {
+        "threshold": 0.142,
+        "percentile sum": 14007,
+        "cumulative sum": 6084724
+    },
+    {
+        "threshold": 0.1421,
+        "percentile sum": 13839,
+        "cumulative sum": 6070717
+    },
+    {
+        "threshold": 0.1422,
+        "percentile sum": 14058,
+        "cumulative sum": 6056878
+    },
+    {
+        "threshold": 0.1423,
+        "percentile sum": 14053,
+        "cumulative sum": 6042820
+    },
+    {
+        "threshold": 0.1424,
+        "percentile sum": 14184,
+        "cumulative sum": 6028767
+    },
+    {
+        "threshold": 0.1425,
+        "percentile sum": 13553,
+        "cumulative sum": 6014583
+    },
+    {
+        "threshold": 0.1426,
+        "percentile sum": 13910,
+        "cumulative sum": 6001030
+    },
+    {
+        "threshold": 0.1427,
+        "percentile sum": 13971,
+        "cumulative sum": 5987120
+    },
+    {
+        "threshold": 0.1428,
+        "percentile sum": 13886,
+        "cumulative sum": 5973149
+    },
+    {
+        "threshold": 0.1429,
+        "percentile sum": 13870,
+        "cumulative sum": 5959263
+    },
+    {
+        "threshold": 0.143,
+        "percentile sum": 13750,
+        "cumulative sum": 5945393
+    },
+    {
+        "threshold": 0.1431,
+        "percentile sum": 13727,
+        "cumulative sum": 5931643
+    },
+    {
+        "threshold": 0.1432,
+        "percentile sum": 14255,
+        "cumulative sum": 5917916
+    },
+    {
+        "threshold": 0.1433,
+        "percentile sum": 13861,
+        "cumulative sum": 5903661
+    },
+    {
+        "threshold": 0.1434,
+        "percentile sum": 13619,
+        "cumulative sum": 5889800
+    },
+    {
+        "threshold": 0.1435,
+        "percentile sum": 13784,
+        "cumulative sum": 5876181
+    },
+    {
+        "threshold": 0.1436,
+        "percentile sum": 13552,
+        "cumulative sum": 5862397
+    },
+    {
+        "threshold": 0.1437,
+        "percentile sum": 13115,
+        "cumulative sum": 5848845
+    },
+    {
+        "threshold": 0.1438,
+        "percentile sum": 13717,
+        "cumulative sum": 5835730
+    },
+    {
+        "threshold": 0.1439,
+        "percentile sum": 13666,
+        "cumulative sum": 5822013
+    },
+    {
+        "threshold": 0.144,
+        "percentile sum": 13321,
+        "cumulative sum": 5808347
+    },
+    {
+        "threshold": 0.1441,
+        "percentile sum": 13393,
+        "cumulative sum": 5795026
+    },
+    {
+        "threshold": 0.1442,
+        "percentile sum": 13243,
+        "cumulative sum": 5781633
+    },
+    {
+        "threshold": 0.1443,
+        "percentile sum": 13319,
+        "cumulative sum": 5768390
+    },
+    {
+        "threshold": 0.1444,
+        "percentile sum": 13160,
+        "cumulative sum": 5755071
+    },
+    {
+        "threshold": 0.1445,
+        "percentile sum": 13401,
+        "cumulative sum": 5741911
+    },
+    {
+        "threshold": 0.1446,
+        "percentile sum": 12981,
+        "cumulative sum": 5728510
+    },
+    {
+        "threshold": 0.1447,
+        "percentile sum": 13516,
+        "cumulative sum": 5715529
+    },
+    {
+        "threshold": 0.1448,
+        "percentile sum": 12918,
+        "cumulative sum": 5702013
+    },
+    {
+        "threshold": 0.1449,
+        "percentile sum": 13297,
+        "cumulative sum": 5689095
+    },
+    {
+        "threshold": 0.145,
+        "percentile sum": 13186,
+        "cumulative sum": 5675798
+    },
+    {
+        "threshold": 0.1451,
+        "percentile sum": 12892,
+        "cumulative sum": 5662612
+    },
+    {
+        "threshold": 0.1452,
+        "percentile sum": 12930,
+        "cumulative sum": 5649720
+    },
+    {
+        "threshold": 0.1453,
+        "percentile sum": 12960,
+        "cumulative sum": 5636790
+    },
+    {
+        "threshold": 0.1454,
+        "percentile sum": 12692,
+        "cumulative sum": 5623830
+    },
+    {
+        "threshold": 0.1455,
+        "percentile sum": 13140,
+        "cumulative sum": 5611138
+    },
+    {
+        "threshold": 0.1456,
+        "percentile sum": 12960,
+        "cumulative sum": 5597998
+    },
+    {
+        "threshold": 0.1457,
+        "percentile sum": 12552,
+        "cumulative sum": 5585038
+    },
+    {
+        "threshold": 0.1458,
+        "percentile sum": 12548,
+        "cumulative sum": 5572486
+    },
+    {
+        "threshold": 0.1459,
+        "percentile sum": 12735,
+        "cumulative sum": 5559938
+    },
+    {
+        "threshold": 0.146,
+        "percentile sum": 12845,
+        "cumulative sum": 5547203
+    },
+    {
+        "threshold": 0.1461,
+        "percentile sum": 12370,
+        "cumulative sum": 5534358
+    },
+    {
+        "threshold": 0.1462,
+        "percentile sum": 12653,
+        "cumulative sum": 5521988
+    },
+    {
+        "threshold": 0.1463,
+        "percentile sum": 12814,
+        "cumulative sum": 5509335
+    },
+    {
+        "threshold": 0.1464,
+        "percentile sum": 12224,
+        "cumulative sum": 5496521
+    },
+    {
+        "threshold": 0.1465,
+        "percentile sum": 12500,
+        "cumulative sum": 5484297
+    },
+    {
+        "threshold": 0.1466,
+        "percentile sum": 12662,
+        "cumulative sum": 5471797
+    },
+    {
+        "threshold": 0.1467,
+        "percentile sum": 12612,
+        "cumulative sum": 5459135
+    },
+    {
+        "threshold": 0.1468,
+        "percentile sum": 12335,
+        "cumulative sum": 5446523
+    },
+    {
+        "threshold": 0.1469,
+        "percentile sum": 12280,
+        "cumulative sum": 5434188
+    },
+    {
+        "threshold": 0.147,
+        "percentile sum": 12476,
+        "cumulative sum": 5421908
+    },
+    {
+        "threshold": 0.1471,
+        "percentile sum": 12561,
+        "cumulative sum": 5409432
+    },
+    {
+        "threshold": 0.1472,
+        "percentile sum": 12198,
+        "cumulative sum": 5396871
+    },
+    {
+        "threshold": 0.1473,
+        "percentile sum": 12481,
+        "cumulative sum": 5384673
+    },
+    {
+        "threshold": 0.1474,
+        "percentile sum": 12337,
+        "cumulative sum": 5372192
+    },
+    {
+        "threshold": 0.1475,
+        "percentile sum": 12285,
+        "cumulative sum": 5359855
+    },
+    {
+        "threshold": 0.1476,
+        "percentile sum": 12139,
+        "cumulative sum": 5347570
+    },
+    {
+        "threshold": 0.1477,
+        "percentile sum": 12200,
+        "cumulative sum": 5335431
+    },
+    {
+        "threshold": 0.1478,
+        "percentile sum": 12325,
+        "cumulative sum": 5323231
+    },
+    {
+        "threshold": 0.1479,
+        "percentile sum": 11986,
+        "cumulative sum": 5310906
+    },
+    {
+        "threshold": 0.148,
+        "percentile sum": 12038,
+        "cumulative sum": 5298920
+    },
+    {
+        "threshold": 0.1481,
+        "percentile sum": 12132,
+        "cumulative sum": 5286882
+    },
+    {
+        "threshold": 0.1482,
+        "percentile sum": 12080,
+        "cumulative sum": 5274750
+    },
+    {
+        "threshold": 0.1483,
+        "percentile sum": 12040,
+        "cumulative sum": 5262670
+    },
+    {
+        "threshold": 0.1484,
+        "percentile sum": 12006,
+        "cumulative sum": 5250630
+    },
+    {
+        "threshold": 0.1485,
+        "percentile sum": 12132,
+        "cumulative sum": 5238624
+    },
+    {
+        "threshold": 0.1486,
+        "percentile sum": 11837,
+        "cumulative sum": 5226492
+    },
+    {
+        "threshold": 0.1487,
+        "percentile sum": 11525,
+        "cumulative sum": 5214655
+    },
+    {
+        "threshold": 0.1488,
+        "percentile sum": 11991,
+        "cumulative sum": 5203130
+    },
+    {
+        "threshold": 0.1489,
+        "percentile sum": 11922,
+        "cumulative sum": 5191139
+    },
+    {
+        "threshold": 0.149,
+        "percentile sum": 11737,
+        "cumulative sum": 5179217
+    },
+    {
+        "threshold": 0.1491,
+        "percentile sum": 11874,
+        "cumulative sum": 5167480
+    },
+    {
+        "threshold": 0.1492,
+        "percentile sum": 11671,
+        "cumulative sum": 5155606
+    },
+    {
+        "threshold": 0.1493,
+        "percentile sum": 11746,
+        "cumulative sum": 5143935
+    },
+    {
+        "threshold": 0.1494,
+        "percentile sum": 11743,
+        "cumulative sum": 5132189
+    },
+    {
+        "threshold": 0.1495,
+        "percentile sum": 11881,
+        "cumulative sum": 5120446
+    },
+    {
+        "threshold": 0.1496,
+        "percentile sum": 11573,
+        "cumulative sum": 5108565
+    },
+    {
+        "threshold": 0.1497,
+        "percentile sum": 11565,
+        "cumulative sum": 5096992
+    },
+    {
+        "threshold": 0.1498,
+        "percentile sum": 11584,
+        "cumulative sum": 5085427
+    },
+    {
+        "threshold": 0.1499,
+        "percentile sum": 11305,
+        "cumulative sum": 5073843
+    },
+    {
+        "threshold": 0.15,
+        "percentile sum": 11381,
+        "cumulative sum": 5062538
+    },
+    {
+        "threshold": 0.1501,
+        "percentile sum": 11586,
+        "cumulative sum": 5051157
+    },
+    {
+        "threshold": 0.1502,
+        "percentile sum": 11504,
+        "cumulative sum": 5039571
+    },
+    {
+        "threshold": 0.1503,
+        "percentile sum": 5028067,
+        "cumulative sum": 5028067
+    }
+]
