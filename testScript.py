@@ -11,7 +11,7 @@ def test_function():
 
 def test_function_2():
     try:
-        new_variable = "New Variable 2"
+        new_variable = "New Variable "
         if str(new_variable) != 'New Variable 2':
             raise Exception("Strings don't match")
 
