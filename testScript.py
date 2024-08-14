@@ -17,3 +17,12 @@ def test_function_2():
 
     except Exception as e:
         raise Expection("Failed")
+
+def test_function_3():
+    try:
+        new_variable = "New Variable 3"
+        if str(new_variable) != 'New Variable 3':
+            raise Exception("Strings don't match")
+
+    except Exception as e:
+        raise Expection("Failed")
