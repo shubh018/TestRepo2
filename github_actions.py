@@ -42,7 +42,7 @@ def extract_text_from_file(file_path):
         # Remove function definitions and variable assignments
         content = re.sub(r'\bdef\b\s+\w+\s*\(.*?\)\s*:', '', content)  # Function definitions
         content = re.sub(r'\bclass\b\s+\w+\s*:', '', content)  # Class definitions
-        content = re.sub(r'\b\w+\s*=\s*.*', '', content)  # Variable assignments
+        content = re.sub(r'\b\w+\s*=', '', content)  # Variable assignments
 
         # Remove built-in function calls and their variables
         for function in BUILT_IN_FUNCTIONS:
