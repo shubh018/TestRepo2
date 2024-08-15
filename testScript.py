@@ -7,7 +7,7 @@ def test_function():
             raise Exception("Strings don't match")
 
     except Exception as e:
-        raise Expection("Failed")
+        raise Exception("Failed")
 
 def test_function_2():
     try:
