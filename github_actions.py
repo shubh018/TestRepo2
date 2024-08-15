@@ -21,7 +21,7 @@ def get_file_changes():
     Get the list of files that have been modified in the PR.
     This function assumes you have already checked out the PR branch.
     """
-    files = os.popen('git diff --name-only').read().splitlines()
+    files = os.popen('git diff --name-only HEAD^...HEAD').read().splitlines()
     print(f"Files changed: {files}")
     return files
 
