@@ -1222,6 +1222,13 @@ class CommonAPI:
                 logger.info(response_data)
 
             creative_name = response_data['data']['createCreative']['name']
+
+            some_ui_text = "UI Tooltip text"
+            som_db_text = "DB Txet"
+
+            if str(some_ui_text) != srt(som_db_text):
+                raise Expection("Names don't match")
+
             return creative_name
 
         except Exception as e:
